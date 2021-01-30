@@ -12,45 +12,45 @@
 4. Le tableau de mœurs
 5. Les héritiers et le bâtisseur
 6. Points de vue et vision 
-7. La "grande idée" --- ou les arbres et la forêt 
-8. La vision --- ou douze thèmes pour une harmonie 
-9. Forme et structure --- ou la voix des choses 
-10. La géométrie nouvelle --- ou les épousailles 
+7. La "grande idée" &mdash; ou les arbres et la forêt 
+8. La vision &mdash; ou douze thèmes pour une harmonie 
+9. Forme et structure &mdash; ou la voix des choses 
+10. La géométrie nouvelle &mdash; ou les épousailles 
 	du nombre et de la grandeur 
-11. L'éventail magique --- ou l'innocence 
-12. La topologie --- ou l'arpentage des brumes 
-13. Les topos --- ou le lit à deux places 
-14. Mutation de la notion d'espace --- ou le souffle et la foi
+11. L'éventail magique &mdash; ou l'innocence 
+12. La topologie &mdash; ou l'arpentage des brumes 
+13. Les topos &mdash; ou le lit à deux places 
+14. Mutation de la notion d'espace &mdash; ou le souffle et la foi
 15. Tous les chevaux du roi...
-16. Les motifs --- ou le cœur dans le cœur 
-17. A la découverte de la Mère --- ou les deux versants 
+16. Les motifs &mdash; ou le cœur dans le cœur 
+17. A la découverte de la Mère &mdash; ou les deux versants 
 18. L'enfant et la Mère 
 
 _Epilogue_: les Cercles invisibles
 
 19. La mort est mon berceau (ou trois marmots pour un moribond)
 20. Coup d'œil chez les voisins d'en face 
-21. "L'unique" --- ou le don de solitude 
+21. "L'unique" &mdash; ou le don de solitude 
 
 ### Une Lettre
 1. La lettre de mille pages
 2. Naissance de Récoltes et Semailles (une rétrospective-éclair)
-3. Le décès du patron --- chantiers à l'abandon
+3. Le décès du patron &mdash; chantiers à l'abandon
 4. Un vent d'enterrement...
 5. Le voyage
-6. Le versant d'ombre --- ou création et mépris
+6. Le versant d'ombre &mdash; ou création et mépris
 7. Le respect et la fortitude
-8. "Mes proches" --- ou la connivence
+8. "Mes proches" &mdash; ou la connivence
 9. Le dépouillement
 10. Quatre vagues dans un mouvement
 11. Mouvement et structure
 12. Spontanéité et rigueur
 
-### Epilogue en Post-scriptum --- ou Contexte et Préalables d'un Débat 
+### Epilogue en Post-scriptum &mdash; ou Contexte et Préalables d'un Débat 
 13. Le spectrographe à bouteilles 
 14. Trois pieds dans un plat 
-15. La gangrène --- ou l'esprit du temps (1) 
-16. Amende honorable --- ou l'esprit du temps (2) 
+15. La gangrène &mdash; ou l'esprit du temps (1) 
+16. Amende honorable &mdash; ou l'esprit du temps (2) 
 
 ### Table des Matières de Récoltes et Semailles (fascicules 0 à 4)
 
@@ -102,14 +102,14 @@ _Epilogue_: les Cercles invisibles
 19. Le monde sans amour 
 20. Un monde sans conflit? 
 21. Un secret de Polichinelle bien gardé 
-22. Bourbaki, ou ma grande chance --- et son revers 
+22. Bourbaki, ou ma grande chance &mdash; et son revers 
 23. De Profundis 
 24. Mes adieux, ou: les étrangers 
 
 ### V &nbsp; Maître et élèves 
 25. L'élève et le Programme 
 26. Rigueur et rigueur 
-27. La bavure --- ou vingt ans après 
+27. La bavure &mdash; ou vingt ans après 
 28. La récolte inachevée 
 29. Le Père ennemi (1) 
 30. Le Père ennemi (2) 
@@ -117,7 +117,7 @@ _Epilogue_: les Cercles invisibles
 32. L'éthique de mathématicien 
 
 ### VI &nbsp; Récoltes 
-33. La note --- ou la nouvelle éthique 
+33. La note &mdash; ou la nouvelle éthique 
 34. Le limon et la source 
 35. Mes passions 
 36. Désir et méditation 
@@ -129,9 +129,9 @@ _Epilogue_: les Cercles invisibles
 
 ### VII &nbsp; L'Enfant s'amuse 
 42. L'enfant 
-43. Le patron trouble-fête --- ou la marmite à pression
+43. Le patron trouble-fête &mdash; ou la marmite à pression
 44. On re-renverse la vapeur! 
-45. Le Guru-pas-Guru --- ou le cheval à trois pattes
+45. Le Guru-pas-Guru &mdash; ou le cheval à trois pattes
 
 ### VIII &nbsp; L'aventure solitaire 
 46. Le fruit défendu 
@@ -148,16 +148,12 @@ _Epilogue_: les Cercles invisibles
 5. La peur de jouer
 6. Les deux frères
 7. Echec d'un enseignement (1)
-8. Consensus déontologique --- et contrôle de l'information
-
+8. Consensus déontologique &mdash; et contrôle de l'information
 9. Le "snobisme des jeunes", ou les défenseurs de la pureté
-
 10. Cent fers dans le feu, ou: rien ne sert de sécher!
-
 11. L'étreinte impuissante
 12. La visite
 13. Krishnamurti, ou la libération devenue entrave
-
 14. L'arrachement salutaire
 
 
@@ -168,26 +164,25 @@ _Epilogue_: les Cercles invisibles
 
 ## A) HERITAGE ET HERITIERS
 ### I &nbsp; L'élève posthume 
-1. Echec d'un enseignement (2) --- ou création et fatuité
-
+1. Echec d'un enseignement (2) &mdash; ou création et fatuité
 2. Un sentiment d'injustice et d'impuissance
 
-II &nbsp; Mes orphelins 
+### II &nbsp; Mes orphelins 
 1. Mes orphelins
-2. Refus d'un héritage --- ou le prix d'une contradiction
+2. Refus d'un héritage &mdash; ou le prix d'une contradiction
 
-III &nbsp; La mode --- ou Vie des Hommes Illustres 
-1. L'instinct et la mode --- ou la loi du plus fort
+### III &nbsp; La mode &mdash; ou Vie des Hommes Illustres 
+1. L'instinct et la mode &mdash; ou la loi du plus fort
 2. L'inconnu de service et le théorème du bon Dieu
 3. Poids en conserve et douze ans de secret
 4. On n'arrête pas le progrès!
 
 ## B) PIERRE ET LES MOTIFS
 ### IV &nbsp; Les motifs (enterrement d'une naissance) 
-1. Souvenir d'un rêve --- ou la naissance des motifs...
-2. L'Enterrement --- ou le Nouveau Père
+1. Souvenir d'un rêve &mdash; ou la naissance des motifs...
+2. L'Enterrement &mdash; ou le Nouveau Père
 3. Prélude à un massacre
-4. La nouvelle éthique (2) --- ou la foire d'empoigne
+4. La nouvelle éthique (2) &mdash; ou la foire d'empoigne
 5. Appropriation et mépris
 
 ### V &nbsp; Mon ami Pierre 
@@ -209,30 +204,29 @@ III &nbsp; La mode --- ou Vie des Hommes Illustres
 16. Les obsèques
 17. Le tombeau
 
-### VI &nbsp; L'Accord Unanime --- ou le retour des choses 
+### VI &nbsp; L'Accord Unanime &mdash; ou le retour des choses 
 1. Un pied dans le manège
 2. Le retour des choses (ou un pied dans le plat)
-
 3. L'Accord Unanime
 
 ## C) LE BEAU MONDE
-### VII &nbsp; Le Colloque --- ou faisceaux de Mebkhout et Perversité 
-1. L'Iniquité --- ou le sens d'un retour
+### VII &nbsp; Le Colloque &mdash; ou faisceaux de Mebkhout et Perversité 
+1. L'Iniquité &mdash; ou le sens d'un retour
 2. Le Colloque
 3. Le prestidigitateur
 4. La Perversité
 5. Pouce!
 6. La robe de l'empereur de Chine
 7. Rencontres d'outre-tombe
-8. La Victime --- ou les deux silences
+8. La Victime &mdash; ou les deux silences
 9. Le Patron
 10. Mes amis
 11. Le pavé et le beau monde (ou: vessies et lanternes...) 
 
-### VIII &nbsp; L'Elève --- alias le Patron 
+### VIII &nbsp; L'Elève &mdash; alias le Patron 
 +1. Thèse à crédit et assurance tous risques
 +2. Les bonnes références
-+3. La plaisanterie --- ou les "complexes poids"
++3. La plaisanterie &mdash; ou les "complexes poids"
 
 ### IX &nbsp; Mes élèves 
 1. Le silence
@@ -248,15 +242,15 @@ III &nbsp; La mode --- ou Vie des Hommes Illustres
 
 ## D) LES ENTERRES
 ### X &nbsp; Le Fourgon Funèbre 
-Cercueil 1 --- ou les $\mathscr{D}$-modules reconnaissants
+Cercueil 1 &mdash; ou les $\mathscr{D}$-modules reconnaissants
 
-Cercueil 2 --- ou les découpes tronçonnées
+Cercueil 2 &mdash; ou les découpes tronçonnées
 
-Cercueil 3 --- ou les jacobiennes un peu trop relatives
+Cercueil 3 &mdash; ou les jacobiennes un peu trop relatives
 
-Cercueil 4 --- ou les topos sans fleurs ni couronnes
+Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 
-Le Fossoyeur --- ou la Congrégation toute entière
+Le Fossoyeur &mdash; ou la Congrégation toute entière
 
 
 # RECOLTES ET SEMAILLES (III)
@@ -265,12 +259,12 @@ Le Fossoyeur --- ou la Congrégation toute entière
 # La Clef du Yin et du Yang
 
 ### XI &nbsp; Le défunt (toujours pas décédé...) 
-1. L'incident --- ou le corps et l'esprit
-2. Le piège --- ou facilité et épuisement
+1. L'incident &mdash; ou le corps et l'esprit
+2. Le piège &mdash; ou facilité et épuisement
 3. Un adieu à Claude Chevalley
 4. La surface et la profondeur
 5. Eloge de l'écriture
-6. L'enfant et la mer --- ou foi et doute
+6. L'enfant et la mer &mdash; ou foi et doute
 
 ### XII &nbsp; La Cérémonie Funèbre 
 1. L'Eloge Funèbre 
@@ -285,151 +279,151 @@ Le Fossoyeur --- ou la Congrégation toute entière
 
   (2) Histoire d'une vie: un cycle en trois mouvements
 
-    &nbsp;&nbsp; a. L'innocence (les épousailles du yin et du yang)
+    * a. L'innocence (les épousailles du yin et du yang)
 
-    &nbsp;&nbsp; b. Le Superpère (yang enterre yin (2))
+    * b. Le Superpère (yang enterre yin (2))
 
-    &nbsp;&nbsp; c. Les retrouvailles (le réveil du yin (1))
+    * c. Les retrouvailles (le réveil du yin (1))
 
-    &nbsp;&nbsp; d. L'acceptation (le réveil du yin (2))
+    * d. L'acceptation (le réveil du yin (2))
 
   (3) Le couple
 
-    &nbsp;&nbsp; a. La dynamique des choses (l'harmonie yin-yang)
+    * a. La dynamique des choses (l'harmonie yin-yang)
     
-	&nbsp;&nbsp; b. Les époux ennemis (yang enterre yin (3))
+	* b. Les époux ennemis (yang enterre yin (3))
     
-	&nbsp;&nbsp; c. La moitié et le tout --- ou la fêlure
+	* c. La moitié et le tout &mdash; ou la fêlure
     
-	&nbsp;&nbsp; d. Connaissance archétype et conditionnement
+	* d. Connaissance archétype et conditionnement
 
   (4) Notre Mère la Mort 
 
-    &nbsp;&nbsp; a. L'Acte
+    * a. L'Acte
 
-    &nbsp;&nbsp; b. La Bienaimée
+    * b. La Bienaimée
 
-    &nbsp;&nbsp; c. Le messager
+    * c. Le messager
 
-    &nbsp;&nbsp; d. Angela --- ou l'adieu et l'au-revoir
+    * d. Angela &mdash; ou l'adieu et l'au-revoir
 
   (5) Refus et acceptation 
 
-    &nbsp;&nbsp; a. Le paradis perdu
+    * a. Le paradis perdu
     
-	&nbsp;&nbsp; b. Le cycle
+	* b. Le cycle
     
-	&nbsp;&nbsp; c. Les conjoints --- ou l'énigme du "Mal"
+	* c. Les conjoints &mdash; ou l'énigme du "Mal"
     
-	&nbsp;&nbsp; d. Yang joue les yin --- ou le rôle de Maître
+	* d. Yang joue les yin &mdash; ou le rôle de Maître
 
   (6) La mathématique yin et yang
 
-    &nbsp;&nbsp; a. Le plus "macho" des arts
+    * a. Le plus "macho" des arts
 
-	&nbsp;&nbsp; b. La belle inconnue
+	* b. La belle inconnue
 	
-	&nbsp;&nbsp; c. Désir et rigueur
+	* c. Désir et rigueur
 	
-	&nbsp;&nbsp; d. La mer qui monte...
+	* d. La mer qui monte...
 	
-	&nbsp;&nbsp; e. Les neuf mois et les cinq minutes
+	* e. Les neuf mois et les cinq minutes
 	
-	&nbsp;&nbsp; f. Les Obsèques du Yin (yang enterre yin (4))
+	* f. Les Obsèques du Yin (yang enterre yin (4))
 	
-	&nbsp;&nbsp; g. Supermaman ou Superpapa?
+	* g. Supermaman ou Superpapa?
 
   (7) Le renversement du yin et du yang 
 
-	&nbsp;&nbsp; a. Le renversement (1) --- ou l'épouse véhémente
+	* a. Le renversement (1) &mdash; ou l'épouse véhémente
 
-	&nbsp;&nbsp; b. Rétrospective (1) --- ou trois volets d'un tableau
+	* b. Rétrospective (1) &mdash; ou trois volets d'un tableau
 	
-	&nbsp;&nbsp; c. Rétrospective (2) --- ou le nœud
+	* c. Rétrospective (2) &mdash; ou le nœud
 	
-	&nbsp;&nbsp; d. Les parents --- ou le cœur du conflit
+	* d. Les parents &mdash; ou le cœur du conflit
 	
-	&nbsp;&nbsp; e. Le Père ennemi (3) --- ou yang enterre yang
+	* e. Le Père ennemi (3) &mdash; ou yang enterre yang
 	
-	&nbsp;&nbsp; f. La flèche et la vague
+	* f. La flèche et la vague
 	
-	&nbsp;&nbsp; g. Le mystère du conflit
+	* g. Le mystère du conflit
 	
-	&nbsp;&nbsp; h. Le renversement (2) --- ou la révolte ambiguë
+	* h. Le renversement (2) &mdash; ou la révolte ambiguë
 
   (8) Maîtres et Serviteur 
 
-	&nbsp;&nbsp; a. Le renversement (3) --- ou yin enterre yang
+	* a. Le renversement (3) &mdash; ou yin enterre yang
 	
-	&nbsp;&nbsp; b. Frères et époux --- ou la double signature
+	* b. Frères et époux &mdash; ou la double signature
 	
-	&nbsp;&nbsp; c. Yin le Serviteur, et les nouveaux maîtres
+	* c. Yin le Serviteur, et les nouveaux maîtres
 	
-	&nbsp;&nbsp; d. Yin le Serviteur (2) --- ou la générosité
+	* d. Yin le Serviteur (2) &mdash; ou la générosité
 
   (9) La griffe dans le velours 
 
-	&nbsp;&nbsp; a. Patte de velours --- ou les sourires
+	* a. Patte de velours &mdash; ou les sourires
 	
-	&nbsp;&nbsp; b. Le renversement (4) --- ou le cirque conjugal
+	* b. Le renversement (4) &mdash; ou le cirque conjugal
 	
-	&nbsp;&nbsp; c. La violence ingénue --- ou la passation
+	* c. La violence ingénue &mdash; ou la passation
 	
-	&nbsp;&nbsp; d. L'esclave et le pantin --- ou les vannes
+	* d. L'esclave et le pantin &mdash; ou les vannes
 
-  (10) La violence --- ou les jeux et l'aiguillon 
+  (10) La violence &mdash; ou les jeux et l'aiguillon 
 
-	&nbsp;&nbsp; a. La violence du juste
+	* a. La violence du juste
 	
-	&nbsp;&nbsp; b. La mécanique et la liberté
+	* b. La mécanique et la liberté
 	
-	&nbsp;&nbsp; c. L'avidité --- ou la mauvaise affaire
+	* c. L'avidité &mdash; ou la mauvaise affaire
 	
-	&nbsp;&nbsp; d. Les deux connaissances --- ou la peur de connaître
+	* d. Les deux connaissances &mdash; ou la peur de connaître
 	
-	&nbsp;&nbsp; e. Le nerf secret
+	* e. Le nerf secret
 	
-	&nbsp;&nbsp; f. Passion et fringale --- ou l'escalade
+	* f. Passion et fringale &mdash; ou l'escalade
 	
-	&nbsp;&nbsp; g. Papa-gâteaux
+	* g. Papa-gâteaux
 	
-	&nbsp;&nbsp; h. Le nerf dans le nerf --- ou le nain et le géant
+	* h. Le nerf dans le nerf &mdash; ou le nain et le géant
 
   (11) L'autre Soi-même 
 
-	&nbsp;&nbsp; a. Rancune en sursis --- ou le retour des choses (2)
+	* a. Rancune en sursis &mdash; ou le retour des choses (2)
 	
-	&nbsp;&nbsp; b. Innocence et conflit --- ou la pierre d'achoppement
+	* b. Innocence et conflit &mdash; ou la pierre d'achoppement
 	
-	&nbsp;&nbsp; c. La circonstance providentielle --- ou l'Apothéose
+	* c. La circonstance providentielle &mdash; ou l'Apothéose
 	
-	&nbsp;&nbsp; d. Le désaveu (1) --- ou le rappel
+	* d. Le désaveu (1) &mdash; ou le rappel
 	
-	&nbsp;&nbsp; e. Le désaveu (2) --- ou la métamorphose
+	* e. Le désaveu (2) &mdash; ou la métamorphose
 	
-	&nbsp;&nbsp; f. La mise en scène --- ou "la seconde nature"
+	* f. La mise en scène &mdash; ou "la seconde nature"
 	
-	&nbsp;&nbsp; g. Un autre Soi-même --- ou identification et conflit
+	* g. Un autre Soi-même &mdash; ou identification et conflit
 
-	&nbsp;&nbsp; h. Le Frère ennemi --- ou la passation (2)
+	* h. Le Frère ennemi &mdash; ou la passation (2)
 
-  (12) Conflit et découverte --- ou l'énigme du Mal 
+  (12) Conflit et découverte &mdash; ou l'énigme du Mal 
 
-    &nbsp;&nbsp; a. Sans haine et sans merci
+    * a. Sans haine et sans merci
 	
-	&nbsp;&nbsp; b. Compréhension et renouvellement
+	* b. Compréhension et renouvellement
 	
-	&nbsp;&nbsp; c. La cause de la violence sans cause
+	* c. La cause de la violence sans cause
 	
-	&nbsp;&nbsp; d. Nichidatsu Fujii Guruji --- ou le soleil et ses planètes
+	* d. Nichidatsu Fujii Guruji &mdash; ou le soleil et ses planètes
 	
-	&nbsp;&nbsp; e. La prière et le conflit
+	* e. La prière et le conflit
 	
-	&nbsp;&nbsp; f. Conviction et connaissance
+	* f. Conviction et connaissance
 	
-	&nbsp;&nbsp; g. Le fer le plus brûlant --- ou le tournant
+	* g. Le fer le plus brûlant &mdash; ou le tournant
 	
-	&nbsp;&nbsp; h. La chaîne sans fin --- ou la passation (3)
+	* h. La chaîne sans fin &mdash; ou la passation (3)
 
 # RECOLTES ET SEMAILLES (IV)
 # L'ENTERREMENT (3)
@@ -439,7 +433,7 @@ Le Fossoyeur --- ou la Congrégation toute entière
 ### XII &nbsp; La Cérémonie Funèbre _(suite)_
 3. Les derniers devoirs (ou la visite) 
 
-  (1) Le devoir accompli --- ou l'instant de vérité
+  (1) Le devoir accompli &mdash; ou l'instant de vérité
   
   (2) Les points sur les $i$
 
@@ -447,169 +441,169 @@ Le Fossoyeur --- ou la Congrégation toute entière
 
   (1) Requiem pour vague squelette
   
-  (2) La profession de foi --- ou le vrai dans le faux
+  (2) La profession de foi &mdash; ou le vrai dans le faux
   
-  (3) La mélodie au tombeau --- ou la suffisance
+  (3) La mélodie au tombeau &mdash; ou la suffisance
 
 5. _LES QUATRE OPERATIONS_ (sur une dépouille) 
 
-  (0) Le détective --- ou la vie en rose
+  (0) Le détective &mdash; ou la vie en rose
   
-    &nbsp;&nbsp;&nbsp;&nbsp; Les quatre opérations --- ou "mise en ordre" d'une enquête
+    * Les quatre opérations &mdash; ou "mise en ordre" d'une enquête
 
   (1) Le magot 
 
-    &nbsp;&nbsp;&nbsp;&nbsp; a. Le silence ("Motifs") 
+    * a. Le silence ("Motifs") 
 
-    &nbsp;&nbsp;&nbsp;&nbsp; a${}_1$. Le contexte "motifs"
+    * a${}_1$. Le contexte "motifs"
   
-    &nbsp;&nbsp;&nbsp;&nbsp; a${}_2$. Enterrement...
+    * a${}_2$. Enterrement...
   
-    &nbsp;&nbsp;&nbsp;&nbsp; a${}_3$. ... et exhumation
+    * a${}_3$. ... et exhumation
   
-    &nbsp;&nbsp;&nbsp;&nbsp; a${}_4$. La pré-exhumation
+    * a${}_4$. La pré-exhumation
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b. Les manœuvres ("Cohomologie étale") 
+    * b. Les manœuvres ("Cohomologie étale") 
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b${}_1$. Le contexte "Conjectures de Weil"
+    * * b${}_1$. Le contexte "Conjectures de Weil"
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b${}_2$. Les quatre manœuvres
+    * b${}_2$. Les quatre manœuvres
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b${}_3$. Episodes d'une escalade
+    * b${}_3$. Episodes d'une escalade
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b${}_4$. L'impudence
+    * b${}_4$. L'impudence
 
-    &nbsp;&nbsp;&nbsp;&nbsp; b${}_5$. Le magot
+    * b${}_5$. Le magot
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b${}_6$. L'éviction
+    * * b${}_6$. L'éviction
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b${}_7$. Les bons samaritains
+    * * b${}_7$. Les bons samaritains
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b${}_8$. Le cheval de Troie
+    * * b${}_8$. Le cheval de Troie
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b${}_9$. _"La"_ Conjecture
+    * * b${}_9$. _"La"_ Conjecture
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b${}_{10}$. La Formule 
+    * * * b${}_{10}$. La Formule 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) Les vraies maths...
+    * * * * (a) Les vraies maths...
   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) ... et le non-sense
+    * * * * (b) ... et le non-sense
   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c) Le patrimoine --- ou magouille et création
+    * * * * (c) Le patrimoine &mdash; ou magouille et création
   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (d) Les double-sens --- ou l'art de l'arnaque
+    * * * * (d) Les double-sens &mdash; ou l'art de l'arnaque
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e) Les prestidigitateurs --- ou la formule envolée
+    * * * * (e) Les prestidigitateurs &mdash; ou la formule envolée
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (f) Les félicitations --- ou le nouveau style
+    * * * * (f) Les félicitations &mdash; ou le nouveau style
 
-  (2) Le partage ("Dualité --- Cristaux") 
+  (2) Le partage ("Dualité &mdash; Cristaux") 
 
-    &nbsp;&nbsp;&nbsp;&nbsp; a. La part du dernier --- ou les oreilles sourdes
+    * a. La part du dernier &mdash; ou les oreilles sourdes
   
-    &nbsp;&nbsp;&nbsp;&nbsp; b. Gloire à gogo --- ou l'ambiguité
+    * b. Gloire à gogo &mdash; ou l'ambiguité
   
-    &nbsp;&nbsp;&nbsp;&nbsp; c. Les joyaux
+    * c. Les joyaux
 
   (3) L'APOTHEOSE ("Coefficients de De Rham et $\mathscr{D}-Modules$") 
 
-	&nbsp;&nbsp; a. L'ancêtre
+	* a. L'ancêtre
 	
-	&nbsp;&nbsp; b. L'œuvre...
+	* b. L'œuvre...
 	
-	&nbsp;&nbsp; c. ... et l'aubaine
+	* c. ... et l'aubaine
 	
-	&nbsp;&nbsp; d. Le jour de gloire
+	* d. Le jour de gloire
 
-    &nbsp;&nbsp; a${}_1$. Les détails inutiles
+    * a${}_1$. Les détails inutiles
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) Des paquets de mille pages 
+    * * (a) Des paquets de mille pages 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) Des machines à rien faire... 
+    * * (b) Des machines à rien faire... 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c) Des choses qui ressemblent à rien... --- ou le dessèchement 
+    * * (c) Des choses qui ressemblent à rien... &mdash; ou le dessèchement 
 
-    &nbsp;&nbsp; a${}_2$. Les questions saugrenues
+    * a${}_2$. Les questions saugrenues
 
-    &nbsp;&nbsp; a${}_3$. Liberté...
+    * a${}_3$. Liberté...
 
-    &nbsp;&nbsp; a${}_4$. ... et entrave
+    * a${}_4$. ... et entrave
 
-    &nbsp;&nbsp; b${}_1$. Les cinq photos (cristaux et $\mathscr{D}$-Modules)
+    * b${}_1$. Les cinq photos (cristaux et $\mathscr{D}$-Modules)
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) L'album "coefficients de De Rham" 
+    * * (a) L'album "coefficients de De Rham" 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) La formule du bon Dieu 
+    * * (b) La formule du bon Dieu 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c) La cinquième photo (en "pro") 
+    * * (c) La cinquième photo (en "pro") 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (d) Cristaux et co-cristaux --- pleinement fidèles? 
+    * * (d) Cristaux et co-cristaux &mdash; pleinement fidèles? 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e) L'ubiquité du bon Dieu 
+    * * (e) L'ubiquité du bon Dieu 
 
-    &nbsp;&nbsp; b${}_2$. Trois jalons --- ou l'innocence
+    * b${}_2$. Trois jalons &mdash; ou l'innocence
     
-	&nbsp;&nbsp; b${}_3$. Le rôle de maître (2) --- ou les fossoyeurs
+	* b${}_3$. Le rôle de maître (2) &mdash; ou les fossoyeurs
     
-	&nbsp;&nbsp; b${}_4$. Les pages mortes
+	* b${}_4$. Les pages mortes
 
-    &nbsp;&nbsp; c${}_1$. Eclosion d'une vision --- ou l'intrus
+    * c${}_1$. Eclosion d'une vision &mdash; ou l'intrus
 
-    &nbsp;&nbsp; c${}_2$. La maffia
+    * c${}_2$. La maffia
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) des ombres au tableau (de famille) 
+    * * (a) des ombres au tableau (de famille) 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) Premiers ennuis --- ou les caïds d'outre-Pacifique 
+    * * (b) Premiers ennuis &mdash; ou les caïds d'outre-Pacifique 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c) Les prix d'entrée --- ou un jeune homme d'avenir 
+    * * (c) Les prix d'entrée &mdash; ou un jeune homme d'avenir 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c${}_1$) Les mémoires défaillantes --- ou la Nouvelle Histoire 
+    * * (c${}_1$) Les mémoires défaillantes &mdash; ou la Nouvelle Histoire 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (d) La Répétition Générale (avant Apothéose) 
+    * * (d) La Répétition Générale (avant Apothéose) 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e) Marchés de dupes --- ou le théâtre de marionnettes 
+    * * (e) Marchés de dupes &mdash; ou le théâtre de marionnettes 
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (f) Le défilé des acteurs --- ou la maffia 
+    * * (f) Le défilé des acteurs &mdash; ou la maffia 
 
-    &nbsp;&nbsp; c${}_3$. Racines et solitude
+    * c${}_3$. Racines et solitude
 
-    &nbsp;&nbsp; c${}_4$. Carte blanche pour le pillage --- ou les Hautes Œuvres
+    * c${}_4$. Carte blanche pour le pillage &mdash; ou les Hautes Œuvres
 
-    &nbsp;&nbsp; Epilogue outre-tombe --- ou la mise à sac
+    * Epilogue outre-tombe &mdash; ou la mise à sac
 
   (4) Le seuil
 
   (5) L'album de famille
 
-    &nbsp;&nbsp; a. Un défunt bien entouré 
+    * a. Un défunt bien entouré 
 
-    &nbsp;&nbsp; b. Des têtes nouvelles --- ou les vocalises 
+    * b. Des têtes nouvelles &mdash; ou les vocalises 
 
-    &nbsp;&nbsp; c. Celui entre tous --- ou l'acquiescement 
+    * c. Celui entre tous &mdash; ou l'acquiescement 
 
-    &nbsp;&nbsp; d. L'Enterrement --- ou la pente naturelle 
+    * d. L'Enterrement &mdash; ou la pente naturelle 
 
-    &nbsp;&nbsp; e. La dernière minute --- ou fin d'un tabou 
+    * e. La dernière minute &mdash; ou fin d'un tabou 
 
   (6) L'escalade (2)
 
-  (7) Les Pompes Funèbres --- "Im Dienste der Wissenschaft"
+  (7) Les Pompes Funèbres &mdash; "Im Dienste der Wissenschaft"
 
   (8) Le sixème clou (au cercueil) 
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. La pré-exhumation
+	* a. La pré-exhumation
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. La bonne surprise
+	* b. La bonne surprise
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Celui qui sait attendre
+	* c. Celui qui sait attendre
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. La valse des pères
+	* d. La valse des pères
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. Monsieur Verdoux --- ou le cavalier servant
+	* e. Monsieur Verdoux &mdash; ou le cavalier servant
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. Les basses besognes
+	* f. Les basses besognes
 	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g. Cinq thèses pour un massacre --- ou la piété filiale
+	* g. Cinq thèses pour un massacre &mdash; ou la piété filiale
 
 6. Les chantiers désolés 
 
@@ -617,7 +611,7 @@ Le Fossoyeur --- ou la Congrégation toute entière
 
   (2) L'avare et le croulant
 
-  (3) Le tour des chantiers --- ou outils et vision
+  (3) Le tour des chantiers &mdash; ou outils et vision
 
 7. Les fruits du soir 
 
@@ -631,13 +625,13 @@ Le Fossoyeur --- ou la Congrégation toute entière
 
 8. Découverte d'un passé 
 
-  (1) Premier souffle --- ou le constat
+  (1) Premier souffle &mdash; ou le constat
 
-  (2) Deuxième souffle --- ou l'enquête
+  (2) Deuxième souffle &mdash; ou l'enquête
 
-  (3) Troisième souffle --- ou découverte de la violence
+  (3) Troisième souffle &mdash; ou découverte de la violence
 
-  (4) La fidélité --- ou la mathématique au féminin
+  (4) La fidélité &mdash; ou la mathématique au féminin
 
 9. De Profundis 
 
