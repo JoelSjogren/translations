@@ -26,9 +26,9 @@
 17. A la découverte de la Mère &mdash; ou les deux versants 
 18. L'enfant et la Mère 
 
-_Epilogue_: les Cercles invisibles
+_Epilogue_: the invisible Circles
 
-19. La mort est mon berceau (ou trois marmots pour un moribond)
+19. [Death is my cradle (or three kids for a dying man)](part-0-epilogue/19.md)
 20. Coup d'œil chez les voisins d'en face 
 21. "L'unique" &mdash; ou le don de solitude 
 
