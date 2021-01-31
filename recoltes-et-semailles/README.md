@@ -8,7 +8,6 @@ Contributions are welcome. Maybe I misunderstand some sentence here and there, o
 
 I printed a copy of the French version online:
 
-<img src="print-french-front-cover.jpg" width="40%"/>
-<img src="print-french-back-cover.jpg" width="40%"/>
+<img src="print-french-front-cover.jpg" width="40%"/> <img src="print-french-back-cover.jpg" width="40%"/>
 
 Imagine having a translated copy!
