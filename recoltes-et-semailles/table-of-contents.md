@@ -505,7 +505,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
   
     * c. Les joyaux
 
-  (3) L'APOTHEOSE ("Coefficients de De Rham et $\mathscr{D}-Modules$") 
+  (3) L'APOTHEOSE ("Coefficients de De Rham et $\mathscr{D}$-Modules") 
 
 	* a. L'ancêtre
 	
