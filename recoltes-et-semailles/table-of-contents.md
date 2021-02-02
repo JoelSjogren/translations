@@ -29,8 +29,8 @@
 _Epilogue_: the invisible Circles
 
 19. [Death is my cradle (or three kids for a dying man)](part-0-epilogue/19.md)
-20. Coup d'œil chez les voisins d'en face 
-21. "L'unique" &mdash; ou le don de solitude 
+20. [A glance at the opposite neighbors](part-0-epilogue/20.md)
+21. ["The unparalleled" &mdash; or the gift of solitude](part-0-epilogue/21.md)
 
 ### Une Lettre
 1. La lettre de mille pages
