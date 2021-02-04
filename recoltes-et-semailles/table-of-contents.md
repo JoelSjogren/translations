@@ -79,10 +79,10 @@ _Epilogue_: the invisible Circles
 3. Les inavouables labeurs 
 4. Infaillibilité (des autres) et mépris (de soi)
 
-### II &nbsp; Le rêve et le Rêveur 
+### II &nbsp; The dream and the Dreamer
 5. Le rêve interdit
 6. Le Rêveur 
-7. L'héritage de Galois 
+7. [The legacy of Galois](part-1/7.md)
 8. Rêve et démonstration 
 
 
