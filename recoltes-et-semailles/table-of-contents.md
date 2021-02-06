@@ -68,7 +68,7 @@ _Epilogue_: the invisible Circles
 9. La scène et les Acteurs
 10. Un acte de respect
 
-
+<a name="part-1"></a>
 # RECOLTES ET SEMAILLES (I)
 # Fatuité et Renouvellement
 ### (Sommaire)
