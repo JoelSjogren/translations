@@ -3,6 +3,8 @@
 # Prélude en quatre Mouvements
 ### (Sommaire)
 
+[&lt; already translated &gt;](https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf)</font>
+
 ### En guise d'Avant-Propos...
 
 ### Promenade à travers une œuvre &mdash; ou l'enfant et la Mère
@@ -26,14 +28,16 @@
 17. A la découverte de la Mère &mdash; ou les deux versants 
 18. L'enfant et la Mère 
 
+[&lt;/ already translated &gt;](https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf)
+
 _Epilogue_: the invisible Circles
 
 19. [Death is my cradle (or three kids for a dying man)](part-0-epilogue/19.md)
 20. [A glance at the opposite neighbors](part-0-epilogue/20.md)
 21. ["The unparalleled" &mdash; or the gift of solitude](part-0-epilogue/21.md)
 
-### Une Lettre
-1. La lettre de mille pages
+### A letter
+1. [The letter of 1000 pages](part-0-letter/1.md)
 2. Naissance de Récoltes et Semailles (une rétrospective-éclair)
 3. Le décès du patron &mdash; chantiers à l'abandon
 4. Un vent d'enterrement...
@@ -157,7 +161,7 @@ _Epilogue_: the invisible Circles
 14. L'arrachement salutaire
 
 
-
+<a name="part-2"></a>
 # RECOLTES ET SEMAILLES (II)
 # L'ENTERREMENT (1)
 # ou la robe de l'Empereur de Chine
@@ -253,6 +257,7 @@ Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 Le Fossoyeur &mdash; ou la Congrégation toute entière
 
 
+<a name="part-3"></a>
 # RECOLTES ET SEMAILLES (III)
 # L'ENTERREMENT (2)
 ## ou
@@ -425,6 +430,8 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 	
 	* h. La chaîne sans fin &mdash; ou la passation (3)
 
+
+<a name="part-4"></a>
 # RECOLTES ET SEMAILLES (IV)
 # L'ENTERREMENT (3)
 ### ou
