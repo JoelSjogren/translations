@@ -6,6 +6,8 @@ Roy Lisker translated most of [the promenade](https://uberty.org/wp-content/uplo
 
 Contributions are welcome. Maybe I misunderstand some sentence here and there, or you would like it to sound more natural in English. But above all, the book is too long for a slow person like myself to translate on my own.
 
+I have inserted [...] or <sup>[superscripts]</sup> to indicate places where the translation is incomplete or likely inaccurate. (Superscripts are also used very occasionally when there is additional clarifying information.) If you want to contribute, you can start here!
+
 The reference version in French can be found [here](http://acm.math.spbu.ru/RS/.). I intend to hardcode the same footnote numbering, but the original page numbers will be omitted. I printed a copy of it online.
 
 <img src="print-french-front-cover.jpg" width="40%"/> <img src="print-french-back-cover.jpg" width="40%"/>

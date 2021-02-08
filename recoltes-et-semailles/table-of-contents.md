@@ -38,7 +38,7 @@ _Epilogue_: the invisible Circles
 
 ### A letter
 1. [The letter of 1000 pages](part-0-letter/1.md)
-2. Naissance de Récoltes et Semailles (une rétrospective-éclair)
+2. [Birth of Récoltes et Semailles (retrospective in a flash)](part-0-letter/2.md)
 3. Le décès du patron &mdash; chantiers à l'abandon
 4. Un vent d'enterrement...
 5. Le voyage
