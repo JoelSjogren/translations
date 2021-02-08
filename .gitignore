@@ -1,3 +1,7 @@
+## Emacs temporary files
+*.md~
+*.tex~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
