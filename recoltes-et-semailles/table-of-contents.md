@@ -3,7 +3,7 @@
 # Prélude en quatre Mouvements
 ### (Sommaire)
 
-[&lt; already translated &gt;](https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf)</font>
+[&lt; already translated &gt;](https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf)
 
 ### En guise d'Avant-Propos...
 
@@ -39,6 +39,7 @@ _Epilogue_: the invisible Circles
 ### A letter
 1. [The letter of 1000 pages](part-0-letter/1.md)
 2. [Birth of Récoltes et Semailles (retrospective in a flash)](part-0-letter/2.md)
+3. [The boss is dead &mdash; abandoned building sites](part-0-letter/3.md)
 3. Le décès du patron &mdash; chantiers à l'abandon
 4. Un vent d'enterrement...
 5. Le voyage
@@ -263,8 +264,8 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 ## ou
 # La Clef du Yin et du Yang
 
-### XI &nbsp; Le défunt (toujours pas décédé...) 
-1. L'incident &mdash; ou le corps et l'esprit
+### XI &nbsp; The deceased (still not deceased...)
+1. [The incident &mdash; or the body and the spirit](part-3-deceased/1.md)
 2. Le piège &mdash; ou facilité et épuisement
 3. Un adieu à Claude Chevalley
 4. La surface et la profondeur
