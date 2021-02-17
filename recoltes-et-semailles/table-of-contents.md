@@ -40,8 +40,7 @@ _Epilogue_: the invisible Circles
 1. [The letter of 1000 pages](part-0-letter/1.md)
 2. [Birth of Récoltes et Semailles (retrospective in a flash)](part-0-letter/2.md)
 3. [The boss is dead &mdash; abandoned building sites](part-0-letter/3.md)
-3. Le décès du patron &mdash; chantiers à l'abandon
-4. Un vent d'enterrement...
+4. [A wind of the burial](part-0-letter/4.md)
 5. Le voyage
 6. Le versant d'ombre &mdash; ou création et mépris
 7. Le respect et la fortitude
