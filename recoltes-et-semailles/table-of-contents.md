@@ -41,8 +41,8 @@ _Epilogue_: the invisible Circles
 2. [Birth of Récoltes et Semailles (retrospective in a flash)](part-0-letter/2.md)
 3. [The boss is dead &mdash; abandoned building sites](part-0-letter/3.md)
 4. [A wind of the burial](part-0-letter/4.md)
-5. Le voyage
-6. Le versant d'ombre &mdash; ou création et mépris
+5. [The voyage](part-0-letter/5.md)
+6. [The dark side; or creation and contempt](part-0-letter/6.md)
 7. Le respect et la fortitude
 8. "Mes proches" &mdash; ou la connivence
 9. Le dépouillement
@@ -450,7 +450,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
   
   (2) La profession de foi &mdash; ou le vrai dans le faux
   
-  (3) La mélodie au tombeau &mdash; ou la suffisance
+  (3) [The melody at the tomb &mdash; or the self-importance](part-4-dance/3.md)
 
 5. _LES QUATRE OPERATIONS_ (sur une dépouille) 
 
