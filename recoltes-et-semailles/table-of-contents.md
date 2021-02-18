@@ -42,7 +42,7 @@ _Epilogue_: the invisible Circles
 3. [The boss is dead &mdash; abandoned building sites](part-0-letter/3.md)
 4. [A wind of the burial](part-0-letter/4.md)
 5. [The voyage](part-0-letter/5.md)
-6. [The dark side; or creation and contempt](part-0-letter/6.md)
+6. [The dark side &mdash; or creation and contempt](part-0-letter/6.md)
 7. Le respect et la fortitude
 8. "Mes proches" &mdash; ou la connivence
 9. Le dépouillement
