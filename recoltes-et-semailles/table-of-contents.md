@@ -322,7 +322,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
     
 	* d. Yang joue les yin &mdash; ou le rôle de Maître
 
-  (6) La mathématique yin et yang
+  (6) [Mathematics yin and yang](part-3-yinyang/6.md)
 
     * a. Le plus "macho" des arts
 
