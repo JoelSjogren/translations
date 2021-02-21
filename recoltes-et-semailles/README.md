@@ -13,3 +13,5 @@ The reference version in French can be found [here](http://acm.math.spbu.ru/RS/.
 <img src="print-french-front-cover.jpg" width="40%"/> <img src="print-french-back-cover.jpg" width="40%"/>
 
 Imagine having a translated copy!
+
+Update: A version with fewer typographical errors and fewer omissions of footnotes can be found [here](https://www.quarante-deux.org/archives/klein/prefaces/Romans_1965-1969/Recoltes_et_semailles.pdf).
