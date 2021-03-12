@@ -43,7 +43,7 @@ _Epilogue_: the invisible Circles
 4. [A wind of the burial](part-0-letter/4.md)
 5. [The voyage](part-0-letter/5.md)
 6. [The dark side &mdash; or creation and contempt](part-0-letter/6.md)
-7. Le respect et la fortitude
+7. [Respect and fortitude](part-0-letter/7.md)
 8. "Mes proches" &mdash; ou la connivence
 9. Le dépouillement
 10. Quatre vagues dans un mouvement
