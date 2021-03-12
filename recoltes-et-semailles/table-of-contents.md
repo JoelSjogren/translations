@@ -89,9 +89,9 @@ _Epilogue_: the invisible Circles
 7. [The legacy of Galois](part-1/7.md)
 8. Rêve et démonstration 
 
-
-### III &nbsp; Naissance de la crainte 
-9. L'étranger bienvenu 
+<a name="part-1-3"></a>
+### III &nbsp; Birth of the fright
+9. [The welcome foreigner](part-1-fright/9.md)
 10. La "Communauté mathématique" : fiction et réalité
 11. Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
 12. Le mérite et le mépris 
