@@ -1,0 +1,87 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[style=french]{csquotes}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+\newtheorem{theorem}{Theorem}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\newtheorem{innermanualdefinition}{Definition}
+\newenvironment{manualdefinition}[1]
+  {\renewcommand\theinnermanualdefinition{#1}\innermanualdefinition}
+  {\endinnermanualdefinition}
+
+\newtheorem{innermanualtheorem}{Theorem}
+\newenvironment{manualtheorem}[1]
+  {\renewcommand\theinnermanualtheorem{#1}\innermanualtheorem}
+  {\endinnermanualtheorem}
+
+\renewcommand{\thefootnote}{ \arabic{footnote})}
+
+\author{\\[-2em]{\small by} \\[0.5em] Alfred Tarski (Warsaw).}
+\title{Basics of the system calculus. \\ (Grundzüge des Systemenkalküls.) \\ {\small Part 1\footnote{Note from the editor: The second part of this treatment arrived at the same time as the first one and will --- in agreement with the author --- be published in the next volume of ``Fundamenta Mathematicae''.}\;).}}
+\date{}%1935}
+
+\begin{document}
+
+\maketitle
+
+\noindent
+[...]
+
+\section{Basic concepts and axioms}
+
+[...]
+
+\section{The system calculus}
+
+[...]
+
+\newcommand{\no}[1]{\;\textsuperscript{#1})\;}
+\newcommand{\tss}[1]{\textsuperscript{#1}}
+
+\vspace{1em}
+\textit{Postulate VII.\, If $x\in B$, then \no{a} $\overline{x}\in B$, \no{b} $x \cdot \overline{x}=0$, and \no{c} $x + \overline{x}=1$.}
+
+\vspace{0.5em}
+The system of the algebra of logic can be extended, by introducing two infinite operations: ``$\sum_{y\in X} y$'' --- ``the sum of all things in the set $X$'' and ``$\prod_{y\in X} y$'' --- ``the product of all things in the set $X$''. It is then necessary to add the following postulates:
+
+\vspace{0.5em}
+\textit{Postulate VIII.\, If $X\subset B$, then \no{a} $\sum_{y\in X} y\in B$ and \no{b} $x < \sum_{y\in X} y$ for all $x\in X$; \no{c} if furthermore $z\in B$ and $x<z$ for all $x\in X$, then $\sum_{y\in X} y<z$.}
+
+\textit{Postulate IX.\, If $X\subset B$, then \no{a} $\prod_{y\in X} y\in B$ and \no{b} $\sum_{y\in X} y < x$ for all $x\in X$; \no{c} if furthermore $z\in B$ and $z<x$ for all $x\in X$, then $z < \prod_{y\in X} y$.}
+
+\textit{Postulate X. If $x\in B$ and $X\subset B$, then \no{a} $x \cdot \sum_{y\in X} y = \sum_{y\in X}(x \cdot y)$ and\no{b} $x + \prod_{y\in X} y = \prod_{y\in X}(x + y)$.}
+
+\vspace{0.5em}
+The postulates I--VII, together with all the theorems that follow from them, form the \emph{common} and the postulates I--X the \emph{extended system of the algebra of logic}\footnote{Compare with $T_5$, p.\,177--180. One should beware that the postulates I--X are not mutually independent; in particular one can show that any three out of the four postulates V\tss{a}, V\tss{b}, X\tss{a} and X\tss{b} can be omitted from the rest of the postulates of the system considered (this sharpens a remark made in $T_5$, p.\,180).}.
+
+We proceed to the calculus of propositions, which we will mention only briefly; in order to avoid misunderstandings, we will not simply say propositional calculus, but rather \emph{algorithm of propositions}: the jargon ``propositional calculus'' already has a definite meaning, which different from what we are intending.
+
+The range of considerations of the algorithm of propositions is formed by the set $S$. We will define two relations between the elements of this set: ``$x\supset y$'' (``$x$ implies $y$'') and ``$x=y$'' (``$x$ is equivalent to $y$'').
+
+\newcommand{\then}{\rightarrow}
+
+\begin{manualdefinition}{4} \no{a} $x\supset y$ holds precisely when $x,y\in S$ and $x\then y\in L$; \no{b} $x=y$ holds precisely when both $x\supset y$ and $y\supset x$ hold.
+\end{manualdefinition}
+
+Then one can prove the following:
+
+\begin{manualtheorem}{4} We replace the the symbols ``B'', ``<'' and ``='' by ``S'', ``$\supset$'' and ``\equiv$'' in all postulates of the common systems of the algebra of logic; furthermore we replace ``0'' by the variable ``$u$'' and ``1'' by the variable ``$v$'', and we make the assumptions $u\in S$ and $\overline{u}\in L$ as well as $v\in L$ everywhere in the postulates; finally we leave the remaining symbols unchanged. Then the postulates I--VII are satisfied.
+\end{manualtheorem}
+
+
+\vspace{0.5em}\noindent
+[...]
+
+\end{document}
+
+
+
+
+\begin{theorem}
+\end{theorem}

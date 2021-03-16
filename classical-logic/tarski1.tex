@@ -1,0 +1,235 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[style=french]{csquotes}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+%\usepackage{soul}
+\usepackage[letterspace=150]{microtype}
+
+\newtheorem{theorem}{Theorem}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\renewcommand{\thefootnote}{ \arabic{footnote})}
+
+\newcommand{\largish}[1]{{\lsstyle {#1}}}
+
+\author{J. Łukasiewicz and A. Tarski}
+\title{Investigations on the calculus of propositions \\ (Untersuchungen über den Aussagenkalkül)}
+\date{\small Preliminary notice, submitted by J. Łukasiewicz on 27 March 1930.}
+
+\begin{document}
+
+\maketitle
+
+\vspace{-1em}
+In recent years investigations were carried out in Warsaw, treating that part of ``metamathematics'', or --- more precisely --- ``metalogics'', whose field of research forms the simplest deductive discipline, namely the so-called \largish{propositional calculus}. The initiative for these investigations was taken by \largish{Łukasiewicz}; the first results stem from him as well as \largish{Tarski}. Most of the results of \largish{Lindenbaum},  \largish{Sobociński} and \largish{Wajsberg} mentioned below were also found and discussed in the seminar for mathematical logic, which is led since 1926 at the University of Warsaw by \largish{Łukasiewicz}. The systemization of all these results and the clarification of the concepts in question is due to \largish{Tarski}.
+
+In this notice the most important, mostly still unpublished results of these investigations will be put together.
+
+\section{General notions}
+We intend to reconnect with our considerations about concept formation, that were developed in the preceeding communication by Tarski\footnote{[...]}. To this end we want to clarify above all the notion of (meaningful) proposition and that of the conclusion of a set of propositions with respect to the propositional calculus.
+
+\theoremstyle{definition}
+\begin{definition}
+The set $S$ of all propositions is the intersection of all those sets, that contain all propositional variables (elementary propositions) and are closed with respect to the operations of implication and negation formation\footnote{[...]}.
+\end{definition}
+
+The notions of propositional variable, implication and negation cannot be explained further; one has to consider them as primitive nontions of the ``calculus of meta propositions''. The fundamental properties of these notions, that are sufficient for building the part of metamathematics that interests us here, can be expressed in a series of simple sentences (axioms), whose adduction will be omitted here. The letters ``$p$'', ``$q$'', ``$l$'' and so on are used as  propositional variables. To express the propositions ``$p$ implies $q$'' (or equivalently: ``if $p$, then $q$'') and ``it is not true, that $p$'' in symbols, Łukasiewicz uses the formulas ``$Cpq$'' and ``$Np$''\footnote{[...]}. With this notation, symbols for interpunctuation like parentheses, dots and so on become unnecessary. We will meet several examples of propositions employing this symbolics in later sections. As is familiar in the propositional calculus, other operations are considered next to the formation of implication and negation; they can however be reduced to the latter and are not treated here.
+
+The conclusions of a set of propositions are formed by means of two operations, of Einsetzung (substitution) and Abtrennung (inference rule of ``monus ponens''). The former operation is clear; we will therefore not dwell on its definition. The second operation is based on the fact, that from given propositions $x$ and $z=c(x,y)$, one obtains $y$ as a result.
+
+Now we are prepared to explain the notion of logical consequence:
+\begin{definition}
+  The set of consequences $F(X)$ of the set of propositions $X$ means the intersection of all sets, that contain $X\subset S$ and are closed with respect to the operations of substitution and modus ponens.
+\end{definition}
+
+From this follows:
+\begin{theorem}
+  The notions $S$ and $F(X)$ satisfy axioms 1--5 of the preceeding communication by Tarski\footnote{[...]}.
+\end{theorem}
+
+We are above all interested in those subsets of the set $S$, that form (closed) systems, that is, that satisfy the formula $F(X)=X$. There are two methods available to us for constructing such systems. The first, so-called axiomatic method, is to specify an arbitrary, usually infinite set of propositions $X$ --- an axiom system --- and to form $F(X)$ as the smallest closed system containing $X$. The second method, which is best called the ``matrix method'', rests on the following concept formation of Tarski\footnote{[...]}:
+\begin{definition}
+  A (logical) matrix is a quadrupel $\mathfrak{M}=[A,B,f,g]$, that consists of two disjoint sets $A$ and $B$ (with elements of totally arbitrary character), a function $f$ of two variables, and a function $g$ of one variable, such that both functions are defined for elements of the set $A+B$ and take on values in $A+B$.
+
+  The matrix $\mathfrak{M}=[A,B,f,g]$ is called normal, when the formulas $x\in B$ and $y\in A$ always imply $f(x,y)\in A$.
+\end{definition}
+
+\begin{definition}
+  A function $h$ is called a value function of the matrix $\mathfrak{M}=[A,B,f,g]$, when it satisfies the following requirements: (1) the function $h$ is defined for all $x\in S$; (2) if $x$ is a propositional variable, then $h(x)\in A+B$; (3) if $x\in S$ and $y\in S$, then $h(c(x,y)) = f(h(x), h(y))$; (4) if $x\in S$, then $h(n(x)) = g(h(x))$.
+
+  The proposition $x$ satisfies the matrix $\mathfrak{M}=[A,B,f,g]$, in symbols $x\in E(\mathfrak{M})$, when the formula $h(x)\in B$ holds for every value function $h$ of the matrix.
+\end{definition}
+
+Bernays\footnote{[...]} calls the elements of the set $B$ distinguished.
+
+In order to now construct a closed system of the propositional calculus by means of the matrix method, one assumes a (usually normal) matrix $\mathfrak{M}$ and considers the set $E(\mathfrak{M})$ of all those propositions, that satisfy this matrix. This procedure depends on the following easily verified theorem:
+\begin{theorem}
+  If $\mathfrak{M}$ is a normal matrix, then $E(\mathfrak{M})\in\mathfrak{S}$.
+\end{theorem}
+
+When the set $E(\mathfrak{M})$ forms a system (which is always the case, according to theorem 2, if the matrix $\mathfrak{M}$ is normal), it will be called a system generated by the matrix $\mathfrak{M}$.
+
+The following converse of theorem 2, which was proved by Lindenbaum, brings the generality of the matrix method considered here into evidence:
+\begin{theorem}
+  For each system $X\in\mathfrak{S}$ there exists a normal matrix $\mathfrak{M}=[A,B,f,g]$, with an at most countable set $A+B$, which satisfies the formula $X=E(\mathfrak{M})$.
+\end{theorem}
+
+Each of the two methods has its advantages and drawbacks. While it is easier to examine systems formed by the axiomatic method due to their axiomatizability, it is easier to prove the completeness and consistency of systems obtained from the matrix method. In particular the following plausible theorem holds:
+\begin{theorem}
+  If $\mathfrak{M}=[A,B,f,g]$ is a normal matrix, and $A\not=0$, then $E(\mathfrak{M})\in\mathfrak{W}$.
+\end{theorem}
+
+\section{The usual (two-valued) system of the propositional calculus}
+First of all we consider the most important one of the propositional calculus systems, namely the well-known common (or ``two-valued'', as Łukasiewicz calls it\footnote{[...]}) system, which is here denoted by the symbol ``L''.
+
+System $L$ can be defined as follows, using the matrix method:
+\begin{definition}
+  The common System $L$ of the propositional calculus is the set of all propositions, that satisfy the matrix $\mathfrak{M}=[A,B,f,g]$, where $A=\{0\}$, $B=\{1\}$\footnote{[...]} and the functions $f$ and $g$ are determined by the formulas $f(0,0)=f(0,1)=f(1,1)=1,f(1,0)=0,g(0)=1,g(1)=0$.
+\end{definition}
+
+The consistency and completeness of System $L$ follow easily from this definition:
+\begin{theorem}
+  $L\in\mathfrak{S}.\mathfrak{W}.\mathfrak{B}$.
+\end{theorem}
+
+System $L$ can also be defined by means of the axiomatic method. The first axiom system for the propositional calculus was made by G. Frege\footnote{[...]}. Other axiom systems stem from Whitehead and Russell\footnote{[...]} as well as from Hilbert\footnote{[...]}. Łukasiewicz has given the simplest axiom system known at the present and demonstrated in an elementary way the equivalence between the two definitions of $L$\footnote{[...]}; this result goes as follows:
+\begin{theorem}
+  Let $X$ be the set consisting of the three propositions
+  \begin{center}``$CCpqCCqrCpr$'', \;``$CCNppp$'', \;``$CpCNpq$'';\end{center}
+  then $X\in\mathfrak{Ax}(L)$. Consequently $L$ can be axiomatized, $L\in\mathfrak{A}$.
+\end{theorem}
+
+Following a method developed by Bernays and Łukasiewicz\footnote{[...]}, for examining the independence of a set of propositions $X$, one constructs for each proposition $y\in X$ a normal matrix $\mathfrak{M}_y$, that satisfies all propositions in $X$ except for $y$. By this method Łukasiewicz showed, that contrary to the previously mentioned axiom system there holds:
+\begin{theorem}
+  The set of propositions $X$ given in theorem 6 is independent; consequently $X$ is a basis for $L$, $X\in\mathfrak{B}(L)$.
+\end{theorem}
+
+A different so-called structural method for examining the independence was found by Tarski. This method, despite being less general than the method of matrix formation, can be used successfully in certain cases.
+
+The following theorem of a general nature is due to Tarski:
+\begin{theorem}
+  System $L$, like every axiomatizable system of the propositional calculus satisfying the propositions ``$CpCqp$'' and ``$CpCqCCpCqrr$'' (or ``$CpCqCCpCqrCsr$''), has a basis, consisting of a single proposition\footnote{[...]}.
+\end{theorem}
+
+The proof of this theorem makes it possible, in particular, to give a basis for System L effectively, that contains a single element\footnote{[...]}. Łukasiewicz has simplified Tarski's proof and established the following by building on preparatory work by Sobociński:
+\begin{theorem}  % 9
+  The set consisting of the single proposition $z$:
+  \begin{center}``$CCCpCqpCCCNrCsNtCCrCsuCCtsCtuvCwv$'';\end{center}
+  %((p->(q->p))->((((not r)->(s->not t))->((r->(s->u))->((t->s)->(t->u))))->v))->(w->v)
+  is a basis for System L, in other words $\{z\}\in\mathfrak{B}(L)$.
+\end{theorem}
+
+The proposition $z$ mentioned here, which contains 33 letters, is the shortest known proposition that alone suffices for axiomatizing System L. The proposition $z$ is not organic with respect to System L. Namely, a proposition $y\in X$ is called \emph{organic with respect to a system $X$}, when no (meaningful) part is an element of $X$ (the term ``organic'' comes from S. Lesniewski, and the definition of ``organic proposition'' comes from M. Wajsberg). The proposition $z$ is not organic with respect to $L$, since it contains parts like ``$CpCqp$'' that are elements of $L$. Sobocinski has given an organic axiom for System $L$, that contains 47 letters.
+
+A generalization of theorem 8 is constituted by the following theorem:
+
+\begin{theorem}
+  System $L$ like any axiomatizable system of propositional calculus, containing the propositions ``CpCqp'' and ``CpCqCCpCqrr'', has for each natural number $m$ a basis of exactly $m$ elements.
+\end{theorem}
+
+Sobozinski proved this theorem effectively for System $L$; the generalization to other systems is due to Tarski.
+
+In opposition to this property of System $L$, Tarski showed effectively that:
+
+\begin{theorem}
+  For each natural number $m$ there are systems of the propositional calculus, whose \emph{every} basis consists of $m$ elements.
+\end{theorem}
+
+The following [Überlegungen] of Tarski's relate to the special case $m=1$:
+
+\begin{definition}
+  A proposition $x$ is called \emph{irreducible}, if $x\in S$ and each basis of the system $F(\{x\})$ consists of a single proposition (that is, if no independent set of propositions, which contains more than one element, is equivalent to $\{x\}$.)
+
+  When this condition is not met, the proposition is called \emph{reducible}.
+\end{definition}
+
+It now turns out that almost all familiar propositions of System $L$ are irreducible; in particular:
+
+\begin{theorem}
+  The propositions:
+  [...]
+  are irreducible.
+\end{theorem}
+
+\begin{theorem}
+  If $x,y,z\in S$ then the propositions [...] are irreducible; in particular this holds for the propositions: [...].
+\end{theorem}
+
+From theorems 12 and 13 it follows, that the set of propositions given in theorem 6 consists of [lauter] irreducible propositions.
+
+On the contrary, the following theorem has an effective proof:
+\begin{theorem}
+  The propositions [...] are reducible.
+\end{theorem}
+
+A remarkable theorem on axiom systems [von $L$] was shown by Wajsberg:
+\begin{theorem}
+  [...]
+\end{theorem}
+
+\section{Multivalued systems of the propositional calculus}
+Beside the usual system of the propositional calculus, there are numerous other systems of this calculus, whose investigation is [lohnenswert]. This was first pointed out by Łukasiewicz, who also demonstrated a remarkable class of systems of the propositional calculus \footnote{17...}. The systems [begründeten] by Łukasiewicz are here called $n$-valued systems of the propositional calculus, and denoted by the symbol ``$L_n$'' ($n$ is a natural number or $=\aleph_0$). With the help of the matrix method the systems considered can be defined as follows:
+
+\begin{definition}
+  The \emph{$n$-valued System $L_n$ of the propositional calculus} (where $n$ is a natural number or $=\aleph_0$) is the set of all propositions satisfying the matrix $\mathfrak{M}=[A,B,f,g]$, where the set $A$ is empty for $n=1$, and $A$ consists of all fractions $k/(n-1)$ ($0\leq k<n-1$) in case $1<n<\aleph_0$ and $k/l$ ($0\leq k<l$) in case $n=\aleph_0$, and [ferner] the set $B$ is equal to $\{1\}$ and the functions $f$ and $g$ are given by the formulas: $f(x,y) = \min(1,1-x+y),\, g(x)=1-x$..
+\end{definition}
+
+As Lindenbaum has shown, the System $L_{\aleph_0}$ does not change when one replaces the set $A$ in this definition, of all proper fractions, by another infinite subset of the interval $<0,1>$:
+
+\begin{theorem}
+  Let $\mathfrak{M}=[A,B,f,g]$ be a matrix, in which $B=\{1\}$, the functions $f$ and $g$ follow the formulas $f(x,y) = \min(1,1-x+y),\, g(x)=1-x$ and $A$ is an arbitrary infinite set of numbers, [...]
+\end{theorem}
+
+[...]
+
+\section{Limited propositional calculus}
+In research pertaining to the propositional calculus, one occasionally restricts oneself to those propositions in which no negation symbol occurs. This part of propositional calculus can be perceived as an independent deductive discipline, which we call \emph{limited propositional calculus} and which is even simpler than the ordinary propositional calculus.
+
+For this purpose one modifies first and foremost the notion of meaningful proposition, by omitting the operation of negation formation from Def. 1. Correspondingly the notion of substitution [de: Einsetzung] is simplified, causing a further modification of the notion of consequence. \emph{Theorem 1 remains valid with these modifications.}
+
+[...]
+
+\section{Extended propositional calculus}
+By the extended propositional calculus we mean a deductive discipline, in whose propositions there occur so-called \textbf{universal [de: allgemeine] quantifiers (forall-symbols)} next to the propositional variables and implication symbols \footnote{21...}. Łukasiewicz uses the symbol $\Pi$ introduced by Peirce to denote this quantifier \footnote{22...}; the formula ``$\Pi pq$'' constitutes in this way of writing the symbolic expression for the proposition ``for all $p$ (holds) $q$''. [...]
+
+[...]
+
+\begin{theorem}  % 36
+  [...]
+\end{theorem}
+
+An exact definition of the countable-valued System $L_{\aleph_0}^{\times}$ offers much greater difficulties, than those of the finite-valued systems. The system mentioned has not been investigated yet.
+
+Theorems 27 and 28, which determine the number of all possible systems, remains valid also in the extended propositional calculus.
+
+\section{Ending note}
+The propositional calculus is the simplest deductive discipline dedicated to making mathematical considerations. This calculus should be seen as a laboratory, in which metamathematical methods can be invented and metamathematical notions can be formed, that one can later transfer to the complicated mathematical systems.--- In the following communication Łukasiewicz reports on the philosophical meaning of the $n$-valued propositional calculus.
+
+
+
+\end{document}
+
+
+$\mathfrak{M}=[A,B,f,g]$
+$E(\mathfrak{M})$
+
+\begin{definition}
+\end{definition}
+
+\begin{theorem}
+\end{theorem}
+
+Łukasiewicz
+examine
+
+% todo:
+%  - italics
+%  - footnotes
+
+% alternative scan http://rcin.org.pl/Content/50601/WA35_4839_cz167-r1930-t23_Spraw-TNW-wIII-art1%20.pdf
+
+
