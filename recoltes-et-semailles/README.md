@@ -1,4 +1,4 @@
-# Translation of _Recoltes et Semailles_
+# Translation of _Récoltes et Semailles_
 ## _Réflections et témoignage sur un passé de mathématicien_
 ### Written by Alexander Grothendieck, in the early 1980s.
 
@@ -15,3 +15,5 @@ The reference version in French can be found [here](http://acm.math.spbu.ru/RS/.
 Imagine having a translated copy!
 
 Update: A version with fewer typographical errors and fewer omissions of footnotes can be found [here](https://www.quarante-deux.org/archives/klein/prefaces/Romans_1965-1969/Recoltes_et_semailles.pdf).
+
+In the interest of a slightest sincerity, it should be added that Grothendieck might not have wanted anyone to translate this book. In fact, he wanted the publication of all of his works to be stopped. See [here](https://sbseminar.wordpress.com/2010/02/09/grothendiecks-letter/) and, for an alternative translation of his letter, [here](https://sbseminar.wordpress.com/2010/02/09/grothendiecks-letter/#comment-7760). Also see the comment section [here](https://golem.ph.utexas.edu/category/2010/02/grothendieck_said_stop.html) for some views from the mathematical community. If you think there is a way for me to better respect his demand while still pressing on with the translation in public, let me know.
