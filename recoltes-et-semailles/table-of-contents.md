@@ -46,8 +46,8 @@ _Epilogue_: the invisible Circles
 7. [Respect and fortitude](part-0-letter/7.md)
 8. ["My family" &mdash; or the connivance](part-0-letter/8.md)
 9. [The shedding](part-0-letter/9.md)
-10. Quatre vagues dans un mouvement
-11. Mouvement et structure
+10. [Four waves in motion](part-0-letter/10.md)
+11. [Mouvement et structure](part-0-letter/11.md)
 12. Spontanéité et rigueur
 
 ### Epilogue en Post-scriptum &mdash; ou Contexte et Préalables d'un Débat 
