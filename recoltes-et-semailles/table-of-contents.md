@@ -48,10 +48,10 @@ _Epilogue_: the invisible Circles
 9. [The shedding](part-0-letter/9.md)
 10. [Four waves in motion](part-0-letter/10.md)
 11. [Mouvement et structure](part-0-letter/11.md)
-12. Spontanéité et rigueur
+12. [Spontaneity and rigor](part-0-letter/12.md)
 
-### Epilogue en Post-scriptum &mdash; ou Contexte et Préalables d'un Débat 
-13. Le spectrographe à bouteilles 
+### Epilogue as a Post-script &mdash; or Context and Prerequisites for a Debate
+13. [The bottle spectrograph](part-0-letter/13.md)
 14. Trois pieds dans un plat 
 15. La gangrène &mdash; ou l'esprit du temps (1) 
 16. Amende honorable &mdash; ou l'esprit du temps (2) 
@@ -222,7 +222,7 @@ _Epilogue_: the invisible Circles
 5. Pouce!
 6. La robe de l'empereur de Chine
 7. Rencontres d'outre-tombe
-8. La Victime &mdash; ou les deux silences
+8. <a name="la-victime"></a> La Victime &mdash; ou les deux silences
 9. Le Patron
 10. Mes amis
 11. Le pavé et le beau monde (ou: vessies et lanternes...) 
@@ -548,11 +548,11 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
     * * (e) L'ubiquité du bon Dieu 
 
-    * b${}_2$. Trois jalons &mdash; ou l'innocence
+    * b${}_2$. <a name="trois-jalons"></a> Trois jalons &mdash; ou l'innocence
     
 	* b${}_3$. Le rôle de maître (2) &mdash; ou les fossoyeurs
     
-	* b${}_4$. Les pages mortes
+	* b${}_4$. <a name="pages-mortes"></a> Les pages mortes
 
     * c${}_1$. Eclosion d'une vision &mdash; ou l'intrus
 
