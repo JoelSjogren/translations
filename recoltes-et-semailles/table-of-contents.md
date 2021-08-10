@@ -93,7 +93,7 @@ _Epilogue_: the invisible Circles
 ### III &nbsp; Birth of the fright
 9. [The welcome foreigner](part-1-fright/9.md)
 10. La "Communauté mathématique" : fiction et réalité
-11. Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
+11. <a name="rencontre-claude"></a> Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
 12. Le mérite et le mépris 
 13. Force et épaisseur 
 14. Naissance de la crainte 
@@ -142,7 +142,7 @@ _Epilogue_: the invisible Circles
 47. L'aventure solitaire 
 48. Don et accueil 
 49. Constat d'une division 
-50. Le poids d'un passé 
+50. <a name="poids-passe"></a> Le poids d'un passé 
 
 ### _NOTES_ pour la première partie de Récoltes et Semailles
 1. Mes amis de Survivre et Vivre
@@ -266,7 +266,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 ### XI &nbsp; The deceased (still not deceased...)
 1. [The incident &mdash; or the body and the spirit](part-3-deceased/1.md)
 2. Le piège &mdash; ou facilité et épuisement
-3. Un adieu à Claude Chevalley
+3. <a name="adieu-claude"></a> Un adieu à Claude Chevalley
 4. La surface et la profondeur
 5. Eloge de l'écriture
 6. L'enfant et la mer &mdash; ou foi et doute
