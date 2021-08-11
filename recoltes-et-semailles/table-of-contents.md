@@ -38,7 +38,7 @@ _Epilogue_: the invisible Circles
 
 ### A letter
 1. [The letter of 1000 pages](part-0-letter/1.md)
-2. [Birth of Récoltes et Semailles (retrospective in a flash)](part-0-letter/2.md)
+2. [Birth of Harvests and Sowings (retrospective in a flash)](part-0-letter/2.md)
 3. [The boss is dead &mdash; abandoned building sites](part-0-letter/3.md)
 4. [A wind of the burial](part-0-letter/4.md)
 5. [The voyage](part-0-letter/5.md)
