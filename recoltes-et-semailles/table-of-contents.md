@@ -171,6 +171,7 @@ _Epilogue_: the invisible Circles
 1. Echec d'un enseignement (2) &mdash; ou création et fatuité
 2. Un sentiment d'injustice et d'impuissance
 
+<a name="mes-orphelins"></a>
 ### II &nbsp; Mes orphelins 
 1. Mes orphelins
 2. Refus d'un héritage &mdash; ou le prix d'une contradiction
@@ -612,7 +613,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 	
 	* g. Cinq thèses pour un massacre &mdash; ou la piété filiale
 
-6. Les chantiers désolés 
+6. <a name="chantiers-desoles"></a> Les chantiers désolés 
 
   (1) Ce qui reste en suspens
 
@@ -622,7 +623,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
 7. Les fruits du soir 
 
-  (1) Le respect
+  (1) <a name="le-respect"></a> Le respect
 
   (2) Le don
 
