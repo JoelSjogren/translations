@@ -91,7 +91,7 @@ _Epilogue_: the invisible Circles
 
 <a name="part-1-3"></a>
 ### III &nbsp; Birth of the fright
-9. [The welcome foreigner](part-1-fright/9.md)
+9. [The welcome foreigner](part-1/9.md)
 10. La "Communauté mathématique" : fiction et réalité
 11. <a name="rencontre-claude"></a> Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
 12. Le mérite et le mépris 
