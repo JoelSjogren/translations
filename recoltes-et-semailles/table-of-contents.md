@@ -246,12 +246,13 @@ _Epilogue_: the invisible Circles
 10. ... et la tronçonneuse
 
 ## D) LES ENTERRES
+<a name="fourgon-funebre"></a>
 ### X &nbsp; Le Fourgon Funèbre 
 Cercueil 1 &mdash; ou les $\mathscr{D}$-modules reconnaissants
 
 Cercueil 2 &mdash; ou les découpes tronçonnées
 
-Cercueil 3 &mdash; ou les jacobiennes un peu trop relatives
+<a name="jacobiennes"></a> [Cercueil 3 &mdash; ou les jacobiennes un peu trop relatives](part-2-bury/3.md)
 
 Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 
