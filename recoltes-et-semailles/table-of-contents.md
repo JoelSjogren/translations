@@ -282,7 +282,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
 2. _LA CLEF DU YIN ET DU YANG_
 
-  (1) Le muscle et la tripe (yang enterre yin (1))
+  (1) <a name="muscle-tripe"></a> Le muscle et la tripe (yang enterre yin (1))
 
   (2) Histoire d'une vie: un cycle en trois mouvements
 
@@ -336,7 +336,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 	
 	* e. Les neuf mois et les cinq minutes
 	
-	* f. Les Obsèques du Yin (yang enterre yin (4))
+	* f. <a name="obseques-yin"></a> Les Obsèques du Yin (yang enterre yin (4))
 	
 	* g. Supermaman ou Superpapa?
 
@@ -402,11 +402,11 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 	
 	* b. Innocence et conflit &mdash; ou la pierre d'achoppement
 	
-	* c. La circonstance providentielle &mdash; ou l'Apothéose
+	* c. <a name="circonstance"></a> La circonstance providentielle &mdash; ou l'Apothéose
 	
-	* d. Le désaveu (1) &mdash; ou le rappel
+	* d. <a name="desaveu-1"></a> Le désaveu (1) &mdash; ou le rappel
 	
-	* e. Le désaveu (2) &mdash; ou la métamorphose
+	* e. <a name="desaveu-2"></a> Le désaveu (2) &mdash; ou la métamorphose
 	
 	* f. La mise en scène &mdash; ou "la seconde nature"
 	
@@ -524,7 +524,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 	
 	* d. Le jour de gloire
 
-    * a${}_1$. Les détails inutiles
+    * a${}_1$. <a name="details-inutiles"></a> Les détails inutiles
 
     * * (a) Des paquets de mille pages 
 
@@ -582,7 +582,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
   (4) Le seuil
 
-  (5) L'album de famille
+  (5) <a name="album-famille"></a> L'album de famille
 
     * a. Un défunt bien entouré 
 

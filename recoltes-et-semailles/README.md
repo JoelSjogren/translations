@@ -21,3 +21,5 @@ In the interest of a slightest sincerity, it should be added that Grothendieck m
 Some good resources for translation are: [Wiktionary](https://en.wiktionary.org/) (with [this](https://github.com/DavidPx/WiktionaryLanguageFilter) browser extension), [Reverso](https://context.reverso.net/traduction/francais-anglais), [Ngram viewer](https://books.google.com/ngrams).
 
 Update 2021-08-09: The license is now CC BY-NC-SA. Does anyone out there have any objections to this? If so, open an issue [here](https://github.com/JoelSjogren/translations/issues).
+
+Apparently, there are some translations of this book [into Spanish](https://matematicas.unex.es/~navarro/res/) dating some 10 years back. That page also contains a great library of Grothendieck's other writings, and a similar translation project for "La Clef des Songes" into Spanish.
