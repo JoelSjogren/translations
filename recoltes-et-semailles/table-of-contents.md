@@ -83,6 +83,7 @@ _Epilogue_: the invisible Circles
 3. Les inavouables labeurs 
 4. Infaillibilité (des autres) et mépris (de soi)
 
+<a name="part-1-2"></a>
 ### II &nbsp; The dream and the Dreamer
 5. Le rêve interdit
 6. Le Rêveur 
@@ -90,7 +91,7 @@ _Epilogue_: the invisible Circles
 8. Rêve et démonstration 
 
 <a name="part-1-3"></a>
-### III &nbsp; Birth of the fright
+### III &nbsp; Birth of a concern
 9. [The welcome foreigner](part-1/9.md)
 10. La "Communauté mathématique" : fiction et réalité
 11. <a name="rencontre-claude"></a> Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
