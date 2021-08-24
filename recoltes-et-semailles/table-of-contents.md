@@ -129,7 +129,7 @@ _Epilogue_: the invisible Circles
 37. L'émerveillement 
 38. Pulsion de retour et renouvellement 
 39. Belle de nuit, belle de jour (ou: les écuries d'Augias)
-40. La mathématique sportive 
+40. <a name="sportive"></a> La mathématique sportive 
 41. Fini le manège! 
 
 ### VII &nbsp; L'Enfant s'amuse 
