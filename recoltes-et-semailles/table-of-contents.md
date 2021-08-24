@@ -623,7 +623,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
   (3) Le tour des chantiers &mdash; ou outils et vision
 
-7. Les fruits du soir 
+7. <a name="fruits-soir"></a> Les fruits du soir 
 
   (1) <a name="le-respect"></a> Le respect
 
@@ -633,7 +633,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 
   (4) Le paradis perdu (2)
 
-8. Découverte d'un passé 
+8. <a name="decouverte-passe"></a> Découverte d'un passé 
 
   (1) Premier souffle &mdash; ou le constat
 
