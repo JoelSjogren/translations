@@ -74,7 +74,7 @@ _Epilogue_: the invisible Circles
 
 <a name="part-1"></a>
 # RECOLTES ET SEMAILLES (I)
-# Fatuité et Renouvellement
+# Fatuité et Renouvellement / Complacency and Renewal
 ### (Sommaire)
 
 ### I &nbsp; Travail et découverte 
