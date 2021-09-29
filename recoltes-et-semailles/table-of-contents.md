@@ -222,7 +222,7 @@ _Epilogue_: the invisible Circles
 3. Le prestidigitateur
 4. La Perversité
 5. Pouce!
-6. La robe de l'empereur de Chine
+6. <a name="robe-note"></a> La robe de l'empereur de Chine
 7. Rencontres d'outre-tombe
 8. <a name="la-victime"></a> La Victime &mdash; ou les deux silences
 9. Le Patron
@@ -257,7 +257,7 @@ Cercueil 2 &mdash; ou les découpes tronçonnées
 
 Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 
-Le Fossoyeur &mdash; ou la Congrégation toute entière
+<a name="fossoyeur"></a> Le Fossoyeur &mdash; ou la Congrégation toute entière
 
 
 <a name="part-3"></a>
@@ -443,7 +443,7 @@ Le Fossoyeur &mdash; ou la Congrégation toute entière
 ### XII &nbsp; La Cérémonie Funèbre _(suite)_
 3. Les derniers devoirs (ou la visite) 
 
-  (1) Le devoir accompli &mdash; ou l'instant de vérité
+  (1) <a name="devoir-accompli"></a> Le devoir accompli &mdash; ou l'instant de vérité
   
   (2) Les points sur les $i$
 
