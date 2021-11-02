@@ -66,7 +66,7 @@ _Epilogue_: the invisible Circles
 5. Une dette bienvenue
 
 ### Introduction (II) : Un acte de respect 
-6. L'Enterrement
+6. <a name="intro-enterrement"></a>L'Enterrement
 7. L'Ordonnancement des Obsèques
 8. La fin d'un secret
 9. La scène et les Acteurs
@@ -169,8 +169,8 @@ _Epilogue_: the invisible Circles
 
 ## A) HERITAGE ET HERITIERS
 ### I &nbsp; L'élève posthume 
-1. Echec d'un enseignement (2) &mdash; ou création et fatuité
-2. Un sentiment d'injustice et d'impuissance
+1. <a name="echec-2"></a> Echec d'un enseignement (2) &mdash; ou création et fatuité
+2. <a name="sentiment"></a> Un sentiment d'injustice et d'impuissance
 
 <a name="mes-orphelins"></a>
 ### II &nbsp; Mes orphelins 
@@ -191,7 +191,7 @@ _Epilogue_: the invisible Circles
 4. La nouvelle éthique (2) &mdash; ou la foire d'empoigne
 5. Appropriation et mépris
 
-### V &nbsp; Mon ami Pierre 
+### <a name="mon-ami"></a> V &nbsp; Mon ami Pierre 
 1. L'enfant 
 2. L'enterrement
 3. L'événement
@@ -216,7 +216,7 @@ _Epilogue_: the invisible Circles
 3. L'Accord Unanime
 
 ## C) LE BEAU MONDE
-### VII &nbsp; Le Colloque &mdash; ou faisceaux de Mebkhout et Perversité 
+### <a name="colloque-faisceaux"></a> VII &nbsp; Le Colloque &mdash; ou faisceaux de Mebkhout et Perversité 
 1. L'Iniquité &mdash; ou le sens d'un retour
 2. Le Colloque
 3. Le prestidigitateur
