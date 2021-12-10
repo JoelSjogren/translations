@@ -261,10 +261,10 @@ Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 
 
 <a name="part-3"></a>
-# RECOLTES ET SEMAILLES (III)
-# L'ENTERREMENT (2)
-## ou
-# La Clef du Yin et du Yang
+# HARVESTS AND SOWINGS (III)
+# THE BURIAL (2)
+## or
+# The Key of Ying and Yang
 
 ### XI &nbsp; The deceased (still not deceased...)
 1. [The incident &mdash; or the body and the spirit](part-3-deceased/1.md)
@@ -285,7 +285,7 @@ Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 
   (1) <a name="muscle-tripe"></a> Le muscle et la tripe (yang enterre yin (1))
 
-  (2) Histoire d'une vie: un cycle en trois mouvements
+  (2) <a name="histoire-vie"></a> Histoire d'une vie: un cycle en trois mouvements
 
     * a. L'innocence (les épousailles du yin et du yang)
 
