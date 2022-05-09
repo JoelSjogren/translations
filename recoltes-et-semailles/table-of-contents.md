@@ -85,7 +85,7 @@ _Epilogue_: the invisible Circles
 
 <a name="part-1-2"></a>
 ### II &nbsp; The dream and the Dreamer
-5. Le rêve interdit
+5. [The forbidden dream](part-1/5.md)
 6. Le Rêveur 
 7. [The legacy of Galois](part-1/7.md)
 8. [Dream and proof](part-1/8.md)
