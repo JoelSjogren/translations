@@ -88,7 +88,7 @@ _Epilogue_: the invisible Circles
 5. Le rêve interdit
 6. Le Rêveur 
 7. [The legacy of Galois](part-1/7.md)
-8. Rêve et démonstration 
+8. [Dream and proof](part-1/8.md)
 
 <a name="part-1-3"></a>
 ### III &nbsp; Birth of a concern
