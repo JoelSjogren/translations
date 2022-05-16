@@ -125,7 +125,7 @@ _Epilogue_: the invisible Circles
 33. La note &mdash; ou la nouvelle éthique 
 34. Le limon et la source 
 35. Mes passions 
-36. Désir et méditation 
+36. [Desire and meditation](part-1/36.md)
 37. L'émerveillement 
 38. Pulsion de retour et renouvellement 
 39. Belle de nuit, belle de jour (ou: les écuries d'Augias)
@@ -264,7 +264,7 @@ Cercueil 4 &mdash; ou les topos sans fleurs ni couronnes
 # HARVESTS AND SOWINGS (III)
 # THE BURIAL (2)
 ## or
-# The Key of Ying and Yang
+# The Key of Yin and Yang
 
 ### XI &nbsp; The deceased (still not deceased...)
 1. [The incident &mdash; or the body and the spirit](part-3-deceased/1.md)
