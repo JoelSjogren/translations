@@ -12,7 +12,7 @@
 \theoremstyle{definition}
 \newtheorem{definition}{Definition}
 
-\title{Normed rings \footnote{A summary of this work (except for the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
+\title{Normed rings \footnote{A summary of this work (without the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
 \author{I. Gelfand (Moscow)}
 \date{}%1941}
 
@@ -20,26 +20,26 @@
 \maketitle
 
 \section{The axiomatics}
-A totality $R$ of elements $x$, $y$, \dots are called a \emph{normed ring}, when:
+A totality $R$ of elements $x$, $y$, \dots is called a \emph{normed ring}, when:
 \begin{enumerate}
 \item [($\alpha$)] $R$ is a linear, normed, complete space in the sense of Banach.
 \item [($\beta$)] A multiplication operation is defined on the elements of $R$, satisfying the usual algebraic properties
   \begin{align*}
-    x(\lambda y + \mu z) &= \lambda xy + \mu xz),
-    x(yz) = (xy)z.
+    x(\lambda y + \mu z) &= \lambda xy + \mu xz,\\
+    x(yz) &= (xy)z.
   \end{align*}
-\item There is a unit in $R$, that is, an element $e\in R$ such that $ex=x$, and thus $\| x \| \neq 0$.
-\item [($\gamma$)]
+\item [($\gamma$)] There is a unit in $R$, that is, an element $e\in R$ such that $ex=x$, and thus $\| x \| \neq 0$.
+\item [($\delta$)]
   The multiplication operation is continuous with respect to each factor: if $x_n \to x$, then $x_n y \to xy$, and if$y_n \to y$, then $xy_n \to xy$.
   
   In what follows the multiplication operation will be seen as commutative; however the results of section 1 don't depend on commutativity.
 
-  In what follows we will use axiom ($\gamma$) in the following form:
-\item [($\gamma'$)] $\|x\cdot y\| \leq \|x\|\cdot\|y\|$ and $\|e\| = 1$.
+  In what follows we will use axiom ($\delta$) in the following form:
+\item [($\delta'$)] $\|x\cdot y\| \leq \|x\|\cdot\|y\|$ and $\|e\| = 1$.
 \end{enumerate}
-A priori it would seem that ($\gamma'$) is an essential strengthening of ($\gamma$); we will show, however, that ($\gamma'$) and ($\gamma$) are in fact equivalent. Namely we have
+A priori it would seem that ($\delta'$) is an essential strengthening of ($\delta$); we will show, however, that ($\delta'$) and ($\delta$) are in fact equivalent. Namely we have
 \begin{theorem}
-  For each normed ring $R$ one can find an isomorphic and homeomorphic ring $R'$, in which the axiom $(\gamma')$ holds true.
+  For each normed ring $R$ one can find an isomorphic and homeomorphic ring $R'$, in which the axiom $(\delta')$ holds true.
 \end{theorem}
 Let $Q$ be the ring of linear operators on $R$ (seen as a linear space). To each element $x$ we can assign the linear operator $A_x\in Q$, defined by
 $$A_x y = x\cdot y.$$
@@ -54,7 +54,7 @@ for any $y$ and $z$ in $R$. Let's show that if a linear operator $A\in Q$ has th
 
 From this criterion it follows easily, that $R'$ is a closed subset of $Q$. A sequence $A_n\in R'$ may converge to $A\in Q$. Then $$A(x\cdot y)=\lim A_n(xy)=\lim (A_nx)y=Ax\cdot y,$$ from which, after what has been shown, $A\in R'$ follows. So $R'$ is a complete space. Suppose $\|e\|=a$. Then for $A_x\in R'$
 $$ \|A_x\| = \sup_{\|y\|\leq1}\|A_xy\| = \sup_{\|y\|\leq1}\|x\cdot y\| \geq \frac1a \|x\cdot e\| = \frac1a\|x\|. $$
-This means that the map from $R$ to $R'$ is continuous. Since the spaces $R$ and $R'$ are complete, it follows from the continuity of the map from $R$ to $R'$ that, by a well-known theorem of Banach's, the inverse mapping is continuous; thus we obtain that $R$ is homeomorphic with $R'$. But for elements $A\in R'$ as linear operators, axiom ($\gamma'$) is obviously satisfied.
+This means that the map from $R$ to $R'$ is continuous. Since the spaces $R$ and $R'$ are complete, it follows from the continuity of the map from $R$ to $R'$ that, by a well-known theorem of Banach's, the inverse mapping is continuous; thus we obtain that $R$ is homeomorphic with $R'$. But for elements $A\in R'$ as linear operators, axiom ($\delta'$) is obviously satisfied.
 \begin{corollary}
   The product $xy$ is simultaneously continuous in both factors; if $x_n \to x$ and $y_n \to y$ then $x_ny_n \to xy$.
 \end{corollary}
@@ -128,8 +128,8 @@ We denote the elements of $R/I$ by $X$, $Y$, \dots and set $\|X\| = \inf_{x\in X
   $$ \|x_3-x_2\| < 2\|X'_3-X'_2\|, $$
   etc. The points $x_n$ form a [Fundamentalfolge]; thus
   $$ x_n \to x,\; X'_n\to X\ni x. $$
+  Consequently also $X_n \to X$.
 \end{enumerate}
-Consequently also $X_n \to X$.
 
 \section{Normed fields}
 
