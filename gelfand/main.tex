@@ -12,7 +12,11 @@
 \theoremstyle{definition}
 \newtheorem{definition}{Definition}
 
-\title{Normed rings \footnote{A summary of this work (without the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
+\newcommand{\intd}[3]{\int_{#1}{#2}\mathrm{d}#3}
+
+%\renewcommand{\thefootnote}{ \arabic{footnote})}
+
+\title{Normed rings\footnote{A summary of this work (without the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
 \author{I. Gelfand (Moscow)}
 \date{}%1941}
 
@@ -126,12 +130,63 @@ We denote the elements of $R/I$ by $X$, $Y$, \dots and set $\|X\| = \inf_{x\in X
   $$ \|x_2-x_1\| < 2\|X'_2-X'_1\|, $$
   some $x_3\in X'_3$---such that
   $$ \|x_3-x_2\| < 2\|X'_3-X'_2\|, $$
-  etc. The points $x_n$ form a [Fundamentalfolge]; thus
+  etc. The points $x_n$ form a Cauchy sequence [de: Fundamentalfolge]; thus
   $$ x_n \to x,\; X'_n\to X\ni x. $$
   Consequently also $X_n \to X$.
 \end{enumerate}
 
 \section{Normed fields}
+Let $R$ be a complete normed space, and let an element $x\in R$ be given for each complex number $\lambda$ in a domain $\mathfrak{G}$ within the complex plane. The so-defined abstract function $x(\lambda)$ is called analytic, when for each $\lambda\in\mathfrak{G}$ the limit
+$$ \lim_{h\to0}\frac{x(\lambda+h)-x(\lambda)}h $$
+exists in the sense of convergence in norm.
 
+Let $f$ be any linear functional on $R$; then $f(x(\lambda))$ is an ordinary analytic function of $\lambda$. This circumstance allows us to carry over many properties of ordinary analytic functions to abstract analytic functions.
+
+\subsection{Liouville's theorem}
+When $x(\lambda)$ is defined for all $\lambda$ and bounded in norm, then $x(\lambda)=x$, where $x$ is a constant element of $R$. In fact, for any $f$ we have $f(x(\lambda)=\textrm{const}$ by the ordinary Louville's theorem, and therefore $x(\lambda)$ is also constant, for if $x(\lambda)$ were to take two distinct values $x(\lambda_1)=x_1$ and $x(\lambda_2)=x_2$, then there would exist a linear functional by a theorem of Hahn's, such that $f(x_1)\neq f(x_2)$, which is impossible.
+
+\subsection{Integrals}
+Let a rectifiable curve $\Gamma$ be given inside the domain $\mathfrak{G}$. Then exists
+$$ y = \intd{\Gamma}{x(\lambda)}{\lambda}. $$
+
+Let $\lambda_0, \lambda_1, \dots, \lambda_n$ be arbitrary points on $Gamma$. Consider the sum
+$$ S = \sum_{k=1}^n x(\lambda_k)(\lambda_k-\lambda_{k+1}). $$
+Now let $\lambda_{00}, \dots, \lambda_{10}, \dots, \dots, \lambda_{n-1,p_{n-1}},\lambda_n$ be another collection of points on $\Gamma$, containing the first collection, such that $\lambda_{00} = \lambda_0$, $\lambda_{10} = \lambda_1$, \dots; let's estimate the difference between the corresponding sums. It is equal to
+$$ \|\sum (x(\lambda_k) - x(\lambda_{k,d}))(\lambda_{k,d} - \lambda_{k,d})\| \leq \omega(x)\Gamma, $$
+where $\omega(x)$ is the greatest difference $\|x(\lambda_k) - x(\lambda_{k,d})\|$ and $Gamma$ is the length of the curve. Let
+$$ \delta = \sup_{\lambda\in\Gamma} \min \rho(\lambda, \lambda_k). $$
+We claim that the sums $S$ possess a limit as $\delta \to 0$. Let, indeed, any $\epsilon$ be given in advance. Let's find a $\delta>0$, such that from $\lambda'-\lambda''<\frac\delta2$ the inequality $\|x(\lambda'-\lambda'')\|<\epsilon$ would follow, and let's estimate the deviation among all of the sums with a given $\frac\delta2$. Let the sequences $\mu_k$ and $\lambda_k$ correspond to the sums $S_2$ and $S_1$. If the sequence $\mu_k$ contains the sequence $\lambda_k$, then $\|S_2-S_1\| < \epsilon\Gamma$. Otherwise we form the sequence $\nu_1, \nu_2, \dots, \nu_k, \dots$---the common refinement of the sequences $\lambda_k$ and $\mu_k$. For the corresponding sums we have
+$$ \|S_2-S_1\| < \epsilon\Gamma, \quad \|S_3-S_2\| < \epsilon\Gamma, $$
+from which
+$$ \|S_3-S_1\| < \epsilon\Gamma $$
+follows. Therefore the sums $S$ possess a limit as $\delta\to0$, which we call the integral.
+
+\subsection{Cauchy's theorem}
+If the function $x(\lambda)$ is analytic inside and on a closed curve $\Gamma$, then
+$$ y = \intd{\Gamma}{x(\lambda)}{\lambda}. $$
+In fact, for any linear functional $f$ we have, by the usual theorem of Cauchy's, $f(y)=0$; from here it follows that $y=0$.
+
+Cauchy's integral formula
+$$ x(\lambda) = \frac1{2\pi i}\intd{\Gamma}{\frac{x(\xi)}{\xi-\lambda}} $$
+is shown similarly.
+
+As a consequence of Cauchy's integral formula we obtain the existence of all derivatives of the function $x(\lambda)$ and the Taylor series expansion:
+$$ x(\lambda) = x(\lambda_0) + x'(\lambda_0)(\lambda-\lambda_0) + \dots, $$
+convergent in every circle where the function $x(\lambda)$ is analytic.
+
+We now show the following
+\begin{theorem}
+  A normed field is isomorphic to the field $T$ of all complex numbers\footnote{This theorem was first proved by Mazur. His proof is different from ours.}.
+\end{theorem}
+
+In other words, every element $x$ can be obtained the form $x=\lambda e$, where $\lambda$ is a complex number.
+
+Assume the opposite: for some $x$ and all $\lambda$ the difference $x-\lambda e$ is nonzero. Then $(x-\lambda e)^{-1}$ exists for all $\lambda$. Let's show that this is an analytic function of $\lambda$.
+
+The expression
+$$ \frac1h[(x-(\lambda+h)e)^{-1}-(x-\lambda e)^{-1}] = -[(x-\lambda e-he)^{-1}](x-\lambda e)^{-1} $$
+has, according to lemma 2, a limit, namely $-(x-\lambda e)^{-2}$. For large $\lambda$ we have
+$$ |(x-\lambda e)^{-1}|\cdot|\lambda^{-1}|\left|\left(\frac{x}\lambda-e\right)^{-1}\right| \to 0, $$
+again by lemma 2; since $(x-\lambda e)^{-1}$ is bounded due to continuity, $(x-\lambda e)^{-1}$ is also bounded for all $\lambda$. Using Liouville's theorem, we find: $(x-\lambda e)^{-1}$ is constant and therefore equal to zero, since it has zero for a limit when $\lambda\to\infty$; but then also $e=(x-\lambda e)(x-\lambda e)^{-1}=0$, which is impossible.
 
 \end{document}
