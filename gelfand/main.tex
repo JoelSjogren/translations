@@ -1,0 +1,137 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[style=french]{csquotes}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\title{Normed rings \footnote{A summary of this work (except for the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
+\author{I. Gelfand (Moscow)}
+\date{}%1941}
+
+\begin{document}
+\maketitle
+
+\section{The axiomatics}
+A totality $R$ of elements $x$, $y$, \dots are called a \emph{normed ring}, when:
+\begin{enumerate}
+\item [($\alpha$)] $R$ is a linear, normed, complete space in the sense of Banach.
+\item [($\beta$)] A multiplication operation is defined on the elements of $R$, satisfying the usual algebraic properties
+  \begin{align*}
+    x(\lambda y + \mu z) &= \lambda xy + \mu xz),
+    x(yz) = (xy)z.
+  \end{align*}
+\item There is a unit in $R$, that is, an element $e\in R$ such that $ex=x$, and thus $\| x \| \neq 0$.
+\item [($\gamma$)]
+  The multiplication operation is continuous with respect to each factor: if $x_n \to x$, then $x_n y \to xy$, and if$y_n \to y$, then $xy_n \to xy$.
+  
+  In what follows the multiplication operation will be seen as commutative; however the results of section 1 don't depend on commutativity.
+
+  In what follows we will use axiom ($\gamma$) in the following form:
+\item [($\gamma'$)] $\|x\cdot y\| \leq \|x\|\cdot\|y\|$ and $\|e\| = 1$.
+\end{enumerate}
+A priori it would seem that ($\gamma'$) is an essential strengthening of ($\gamma$); we will show, however, that ($\gamma'$) and ($\gamma$) are in fact equivalent. Namely we have
+\begin{theorem}
+  For each normed ring $R$ one can find an isomorphic and homeomorphic ring $R'$, in which the axiom $(\gamma')$ holds true.
+\end{theorem}
+Let $Q$ be the ring of linear operators on $R$ (seen as a linear space). To each element $x$ we can assign the linear operator $A_x\in Q$, defined by
+$$A_x y = x\cdot y.$$
+
+Clearly, distinct elements are sent to distinct operators, sums and products are sent to sums and products, and the unit $e$ is sent to the identity operator $E$.
+
+Thus there exists within $Q$ a subring $R'$ isomorphic to $R$. Let's find out which property characterizes the linear operators $A\in R'$.
+
+If $A\in R'$, then $A=A_x$, and hence
+$$ A(yz) = x\cdot yz = (xy)z = Ay\cdot z $$
+for any $y$ and $z$ in $R$. Let's show that if a linear operator $A\in Q$ has the property $A(yz)=Ay\cdot z$ (for any $y$ and $z$ in $R$) then $A\in R'$. In fact, let $Ae=x$; then $Ay=A(ey)=Ae\cdot y=xy$ for all $y$.
+
+From this criterion it follows easily, that $R'$ is a closed subset of $Q$. A sequence $A_n\in R'$ may converge to $A\in Q$. Then $$A(x\cdot y)=\lim A_n(xy)=\lim (A_nx)y=Ax\cdot y,$$ from which, after what has been shown, $A\in R'$ follows. So $R'$ is a complete space. Suppose $\|e\|=a$. Then for $A_x\in R'$
+$$ \|A_x\| = \sup_{\|y\|\leq1}\|A_xy\| = \sup_{\|y\|\leq1}\|x\cdot y\| \geq \frac1a \|x\cdot e\| = \frac1a\|x\|. $$
+This means that the map from $R$ to $R'$ is continuous. Since the spaces $R$ and $R'$ are complete, it follows from the continuity of the map from $R$ to $R'$ that, by a well-known theorem of Banach's, the inverse mapping is continuous; thus we obtain that $R$ is homeomorphic with $R'$. But for elements $A\in R'$ as linear operators, axiom ($\gamma'$) is obviously satisfied.
+\begin{corollary}
+  The product $xy$ is simultaneously continuous in both factors; if $x_n \to x$ and $y_n \to y$ then $x_ny_n \to xy$.
+\end{corollary}
+\begin{corollary}
+  When dealing with absolutely convergent series one can, without changing the result, rearrange the terms at will; such series can be multiplied (added), and the series so obtained converges to the product (sum) of the convergent series.
+\end{corollary}
+
+\section{Preliminaries about ideals}
+\begin{lemma}
+  If $x\in R$ and $\|e - x\| < 1$ then $x$ has an inverse element.
+\end{lemma}
+To prove this we consider the series
+$$ e + (e-x) + (e-x)^2 + \dots $$
+Since $\|(e - x)^n\| < \|(e - x)\|^n$, this series converges; let $y$ be its sum. If we form the product of $y$ and $x=e-(e-x)$ and use corollary 2 of theorem 1, we get:
+$$ yx = e + (e-x) + (e-x)^2 + \dots - (e-x) - (e-x)^2 - \dots = e. $$
+Consequently $y = x^{-1}$.
+
+The unit thereby possesses a neighbourhood $U(e)$, consisting of invertible elements. It is easy to realize that such a neighbourhood exists for every invertible $x$. Let $xy=e$ and let $U(x)$ be such a neighbourhood of $x$, that $U(x)y\subset U(e)$; if $z$ is any element of $U(x)$, then $z\cdot y$ has an inverse element $w$, $zyw=e$, from which it follows that the element $z$ also has an inverse. Consequently the set $V$ of invertible elements is open in $R$.
+
+\begin{lemma}
+  $x^{-1}$ is a continuous function of $x$ on $V$. In other words, if $x_n\in V$ converges, then $x_n^{-1} \to x^{-1}$.
+\end{lemma}
+
+Let $x=e$; then the sequence $x_n^{-1}$ is bounded, since for $\|x_n-e\|<\frac12$
+$$ \|x_n^{-1}\| = \|e + (e-x_n) + \dots\| \leq 1 + \frac12 + \frac14 + \dots = 2. $$
+
+Let $K=\sup\|x_n^{-1}\|$. Then
+$$ \|e-x_n^{-1}\| = \|x_n^{-1}(x_n-e)\| \leq K\|x_n-e\| \to 0,$$
+and consequently $x_n^{-1} \to e$.
+
+In general the sequence $x_nx^{-1}$ converges to $xx^{-1}=e$, and therefore
+$$ (x_n x^{-1})^{-1} = xx_n^{-1} \to e,\quad x_n^{-1}\to x^{-1}. $$
+
+We called a totality $I$ of elements $x\in R$ an \emph{ideal} (or a \emph{non-trivial ideal}), when
+\begin{enumerate}
+\item [$1^\circ$.] From $x\in I$ and $y\in I$ it follows $px+qy\in I$, where $p$ and $q$ are arbitrary elements of the ring.
+\item [$2^\circ$.] $I\neq R$.
+\end{enumerate}
+
+Clearly $I$ can't contain any elements of $V$, since otherwise it would contain any element $y\in R$:
+$$ y=yx^{-1}\cdot x, $$
+contradicting condition $2^\circ$. In every ring the element $0$ clearly forms an ideal; we will call it the zero ideal and denote it by $(0)$.
+
+\begin{lemma}
+  If a ring $R$ has no ideals, other than the zero ideal, then every $x\neq 0$ has an inverse $x^{-1}$; in other words, $R$ is in this case a field.
+\end{lemma}
+
+Let's consider the totality $I$ of elements $yx$, where $x\neq 0$, and $y$ runs through the whole ring $R$. Since $I\neq0$ (as $x\in I$), so $I = R$. This means, in particular, that some $y\in R$ exists, such that $xy=e$. Thereby $x$ possesses an inverse element.
+
+We always have $I\subset R-V$; since $R-V$ is closed, we also have $\bar{I}\subset R-V$. Clearly $\bar{I}$ is also an ideal. We thus obtain
+\begin{theorem}
+  The closure $\bar{I}$ of a non-trivial ideal is again a non-trivial ideal.
+\end{theorem}
+
+Let an ideal $I$ be given. An element $x\in R$ is called congruent to $y\in R$ by the ideal $I$, $x\sim y$, when $x-y\in I$; as the notion of congruence is symmetric, reflexive and transitive, so $R$ is partitioned into classes of elements congruent by the ideal $I$; if we introduce in a natural way the operations of addition, subtraction and multiplication to these classes, then we obtain the \emph{residue class ring} $R/I$. This class has a unit, whose role is played by the class containing $e\in R$. The zero of this ring is that class, which consists of all $x\in I$.
+
+\begin{lemma}
+  If $I$ is a closed ideal, then $R/I$ is a normed ring.
+\end{lemma}
+
+We denote the elements of $R/I$ by $X$, $Y$, \dots and set $\|X\| = \inf_{x\in X} \|x\|$. Let's show that all axioms of the norm are satisfied:
+\begin{enumerate}
+\item [$1^\circ$.] $\|\lambda X\| = |\lambda| \|X\|$---is obvious.
+\item [$2^\circ$.] $\|X+Y\| = \inf_{z\in X+Y} \|z\| = \inf_{x\in X, y\in Y} \|x + y\| \leq \inf_{x\in X, y\in Y} \{\|x\| + \|y\|\} \leq \inf_{x\in X} \|x\| + \inf_{y\in Y} \|y\| = \|X\| + \|Y\|$.
+\item [$3^\circ$.] Similarly $\|X\cdot Y\| \leq \|X\|\cdot\|Y\|$.
+\item [$4^\circ$.] Let $\|X\| = 0$, i.e. there exist a sequence $x_n\in X$ such that $x_n \to 0$. If $x$ is any element of $X$, then $x-x_n=y_n\in I$; since $x=\lim y_n$, so $x\in \bar{I}=I$. From here it follows, that the entire class $X$ is contained in $I$ and therefore coincides with it, i.e. is the zero of the ring $R/I$.
+\item [$5^\circ$.] Let $E$ be the unit of $R/I$. Since $e\in E$, so $\|E\|\leq 1$; if it were the case that $\|E\|<1$, then there would exist an element of $E$, such that $\|x\|<1$. Then, according to lemma 1, the element $e-x$ would have an inverse, but this is impossible since $e-x\in I$.
+\item [$6^\circ$.] \emph{Completeness}. Let $\|X_n-X_m\| \to 0$; choose a subsequence $X'_n$, such that the series $\sum\|X'_n-X'_{n+1}\|$ converges. For any $x_1\in X'_1$ one can find some $x_2\in X'_2$ such that
+  $$ \|x_2-x_1\| < 2\|X'_2-X'_1\|, $$
+  some $x_3\in X'_3$---such that
+  $$ \|x_3-x_2\| < 2\|X'_3-X'_2\|, $$
+  etc. The points $x_n$ form a [Fundamentalfolge]; thus
+  $$ x_n \to x,\; X'_n\to X\ni x. $$
+\end{enumerate}
+Consequently also $X_n \to X$.
+
+\section{Normed fields}
+
+
+\end{document}
