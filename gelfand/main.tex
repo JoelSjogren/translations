@@ -252,7 +252,44 @@ We commit to finding out, for which elements $x\in R$ the function $x(M)$ is 0; 
   The intersection of all maximal ideals coincides with the set of all generalized nilpotent elements.
 \end{theorem}
 
-Let $x$ not belong to a certain maximal ideal $M_0$. [...]
+Let $x$ not belong to a certain maximal ideal $M_0$; then $x(M_0)\neq0$. Since
+$$ \|x^n\| \geq |x^n(M_0)| = |x(M_0)|^n $$
+we have
+$$ \sqrt[n]{\|x^n\|} \geq |x(M_0)|; $$
+thus $x$ is not a generalized nilpotent element. Let now $x$ belong to all maximal ideals. Then $e-\lambda x$ belongs to no maximal ideal for any $\lambda$, and it hence possesses an inverse element; the analytic function
+$$ (e-\lambda x)^{-1} $$
+is therefore entire and, by section 3, can be developed into a Taylor series:
+$$ (e-\lambda x)^{-1}  = e + \lambda x + \lambda^2 x^2 + \dots $$
+Since $\lambda^n x^n$ is a term in a convergent series, we have for $n\to\infty$
+$$ \||\lambda^n x^n\|| \to 0. $$
+From this it follows that
+$$ \|x^n\| = \frac{\|\lambda^nx^n\|}{|\lambda^n|} < \frac1{|\lambda|^n} $$
+for large enough $n$, and thus
+$$ \lim_{n\to\infty}\sqrt[n]{\|x^n\|} \leq \frac1{|\lambda|}; $$
+but since $\lambda$ was arbitrary, we obtain
+$$ \lim_{n\to\infty}\sqrt[n]{\|x^n\|} = 0. $$
+
+A more general theorem also holds, one which connects the maximum $|x(M)|$ to the norms of powers of $x$:
+\newtheorem*{theorem8'}{Theorem 8'}
+\begin{theorem8'}
+  For each $x\in R$ the limit $$\lim\sqrt[n]{\|x^n\|}$$ exists and equals $|x(M)|$.
+\end{theorem8'}
+
+Let's put $\max |x(M)| = a$. Then the element $x-\mu e$ has an inverse for all $\mu$ with $|\mu|>a$, as it is represented by the function $x(M)-\mu$, which is everywhere non-zero. Let's put $\lambda=\frac1\mu$; then $(e\mu-x)^-1=\lambda(e-\lambda x)^{-1}$ is an analytic function on the disk $|\lambda|<\frac1a$. Develop it into a Taylor series:
+$$ \lambda(e-\lambda x)^{-1} = \lambda(e + \lambda x + ...). $$
+Since the general term of a convergent series tends to zero, so we obtain:
+$$ \|\lambda^n x^n\| \to 0,\quad \|x^n\| = \frac1{|\lambda|^n}\|\lambda^n x^n\| \leq \frac1{|\lambda|^n} $$
+for large enough $n$; from this it follows that
+$$ \lim\sqrt[n]{\|x^n\|} \leq \frac1{|\lambda|}. $$
+For $\lambda \to \frac1a$ we obtain
+\[ \lim\sqrt[n]{\|x^n\|} \leq a. \tag{1} \]
+As $\|x\|\geq a$, $\|x^n\|\geq a^n$ we have $\sqrt[n]{\|x^n\|}\geq a$ for all $n$, from which
+\[ \lim\sqrt[n]{\|x^n\|} \geq a \tag{2} \]
+follows. Comparing (1) and (2) we find:
+$$ \lim\sqrt[n]{\|x^n\|} = a = \max |x(M)|. $$
+
+\section{Topologization of the set $\mathfrak{M}$}
+[...]
 
 \end{document}
 
