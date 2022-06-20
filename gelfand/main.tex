@@ -10,7 +10,8 @@
 \newtheorem{lemma}{Lemma}
 
 \theoremstyle{definition}
-\newtheorem{definition}{Definition}
+\newtheorem*{definition}{Definition}
+
 
 \newcommand{\intd}[3]{\int_{#1}{#2}\mathrm{d}#3}
 
@@ -189,4 +190,75 @@ has, according to lemma 2, a limit, namely $-(x-\lambda e)^{-2}$. For large $\la
 $$ |(x-\lambda e)^{-1}|\cdot|\lambda^{-1}|\left|\left(\frac{x}\lambda-e\right)^{-1}\right| \to 0, $$
 again by lemma 2; since $(x-\lambda e)^{-1}$ is bounded due to continuity, $(x-\lambda e)^{-1}$ is also bounded for all $\lambda$. Using Liouville's theorem, we find: $(x-\lambda e)^{-1}$ is constant and therefore equal to zero, since it has zero for a limit when $\lambda\to\infty$; but then also $e=(x-\lambda e)(x-\lambda e)^{-1}=0$, which is impossible.
 
+\section{Maximal ideals}
+An ideal $M\subset R$ is called \emph{maximal}, if it is not part of any other ideal.
+
+\begin{theorem}
+  Every maximal ideal $M$ is closed.
+\end{theorem}
+
+Otherwise $M$ would be, by theorem 2, part of the ideal $\bar{M}$, and then it couldn't be maximal.
+
+\begin{theorem}
+  Every ideal $I$ is contained in a maximal ideal.
+\end{theorem}
+
+This theorem is easily shown by transfinite induction. Let $x_1, x_2, \dots, x_\alpha, \dots = \{x_\alpha\}$ be a totally ordered sequence of all elements of $R$. Each nonmaximal ideal $A$ can be assigned an ideal $A^+\supset A$ in the following way: consider the set of all elements $x\in\{x_\alpha\}$ such that the totality of elements $a+px\;(a\in A, p\in R)$ forms an ideal $\supset A$; by assumption this set is non-empty and possesses therefore a first element $x_A$. Set $A^+ = \{a+px_A\}$ and construct a transfinite sequence of ideals $I_\alpha$ in the following way: we set $I_0=I$; let $I_\alpha$ have been constructed for all $\alpha < \beta$; if $\beta$ belongs to the first class, that is, if some $\alpha=\beta-1$ exists, then we set $I_\beta = I_\alpha^+$; if $\beta$ belongs to the second class, then we set $$I_\beta = \sum_{\alpha < \beta} I_\alpha.$$ This sequence has cardinality which does not exceed the cardinality of $R$; therefore the sequence must have a last entry, and this is the maximal ideal that we were looking for.
+
+For various applications the following simple theorem is important:
+\begin{theorem}
+  In order for an element $x\in R$ to have an inverse, it is necessary and sufficient that $x$ not belong to any ideal.
+\end{theorem}
+
+If $x$ has an inverse, then $x$ doesn't belong to any ideal; so it doesn't belong to any maximal ideal either.
+
+If $x$ has no inverse, then the totality of elements $\{x\cdot y\}$, where $y$ runs through all elements of $R$, forms an ideal; according to theorem $5$ it is contained in a maximal ideal.
+
+\section{Functions on maximal ideals}
+Let $M$ be a maximal ideal of the ring $R$, and $R/M$---the residue class ring.
+\begin{theorem}
+  $R/M$ is isomorphic to the field of complex numbers.
+\end{theorem}
+
+By theorems 3 and 4 and lemma 3 it suffices to show, that $R/M$ contains no ideals other than the zero ideal. This much is clear however: if there were an ideal $I$ in $R/M$, that were separate from the zero ideal, then we would obtain, by union of all residue classes making up I, an ideal of $R$ containing $M$, which contradicts the maximality of the latter.
+
+The converse claim is also true: If the residue class ring $R/M$ is isomorphic to the field of complex numbers, then $M$ is a maximal ideal. For otherwise, we would consider some ideal $M'\supset M$, and form the union of all classes in $R/M$ containing $M'$; thereby we would obtain an ideal in the field of complex numbers, which is impossible.
+
+Theorem 7 allows us to assign to each element $x\in R$ a complex number $x(M)$, namely the one that represents the residue class containing $x$ in the isomorphism $R/M\approx T$.
+
+For fixed $x$ and varying $M$ we obtain a function $x(M)$, which is defined on the set $\mathfrak{M}$ of all maximal ideals of the ring $R$.
+
+These functions have the following properties:
+
+\begin{enumerate}
+\item [($\alpha$)] If $x=x_1+x_2$ then $x(M)=x_1(M)+x_2(M)$.
+\item [($\beta$)] If $x=x_1\cdot x_2$ then $x(M)=x_1(M)\cdot x_2(M)$.
+\item [($\gamma$)] $e(M)=1$.
+\item [($\delta$)] $|x(M)| \leq \|x\|$.
+\item [($\epsilon$)] If $M_1\neq M_2$ then there is an $x\in R$ such that $x(M_1)\neq x(M_2)$.
+
+  These properties are just simple formulations of the fact that the mapping $R\to R/M$ is a homomorphism.
+\item [($\zeta$)] If $x(M)$ does not vanish, then there exists some $y\in R$, such that $$ y(M) = \frac1{x(M)}.$$ This is a consequence of theorem 6.
+\end{enumerate}
+
+\section{The radical of a normed ring}
+We commit to finding out, for which elements $x\in R$ the function $x(M)$ is 0; in other words, which elements belong to all maximal ideals.
+
+\begin{definition}
+  An element $x\in R$ is called a \emph{generalized nilpotent element}, if $\sqrt[n]{\|x^n\|} \to 0$. It is clear that the usual nilpotent elements (i.e. those for which $x^n = 0$ for some particular $n$) are also generalized nilpotent elements; the converse claim is in general not valid. The totality of generalized nilpotent elements is called the \emph{radical of the ring}.
+\end{definition}
+
+\begin{theorem}
+  The intersection of all maximal ideals coincides with the set of all generalized nilpotent elements.
+\end{theorem}
+
+Let $x$ not belong to a certain maximal ideal $M_0$. [...]
+
 \end{document}
+
+\begin{theorem}
+\end{theorem}
+
+\begin{enumerate}
+\item [($\alpha$)]
+\end{enumerate}
