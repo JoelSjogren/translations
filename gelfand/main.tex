@@ -5,6 +5,9 @@
 \usepackage{amssymb}
 \usepackage{amsthm}
 
+\usepackage{hyperref}
+
+
 \newtheorem{theorem}{Theorem}
 \newtheorem{corollary}{Corollary}
 \newtheorem{lemma}{Lemma}
@@ -17,7 +20,7 @@
 
 %\renewcommand{\thefootnote}{ \arabic{footnote})}
 
-\title{Normed rings\footnote{A summary of this work (without the last two sections) was published in the C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939).}}
+\title{Normed rings\footnote{A summary of this work (without the last two sections) was published in the \href{https://books.google.se/books/about/Comptes_rendus_de_l_Acad\%C3\%A9mie_des_scienc.html?id=wIkIAAAAIAAJ}{C. R. de l' Ac. d. Sc. de l' U. R. S. S., XXIII, N. 5, (1939)}.}}
 \author{I. Gelfand (Moscow)}
 \date{}%1941}
 
@@ -35,7 +38,7 @@ A totality $R$ of elements $x$, $y$, \dots is called a \emph{normed ring}, when:
   \end{align*}
 \item [($\gamma$)] There is a unit in $R$, that is, an element $e\in R$ such that $ex=x$, and thus $\| x \| \neq 0$.
 \item [($\delta$)]
-  The multiplication operation is continuous with respect to each factor: if $x_n \to x$, then $x_n y \to xy$, and if$y_n \to y$, then $xy_n \to xy$.
+  The multiplication operation is continuous with respect to each factor: if $x_n \to x$ then $x_n y \to xy$, and if $y_n \to y$ then $xy_n \to xy$.
   
   In what follows the multiplication operation will be seen as commutative; however the results of section 1 don't depend on commutativity.
 
@@ -289,7 +292,80 @@ follows. Comparing (1) and (2) we find:
 $$ \lim\sqrt[n]{\|x^n\|} = a = \max |x(M)|. $$
 
 \section{Topologization of the set $\mathfrak{M}$}
+As we intend to make the functions $x(M)$ into continuous functions, we introduce a topology on the set $\mathfrak{M}$.
+
+We define a neighbourhood $U(M_0)$ of a point $M_0\in\mathfrak{M}$ to be a totality of all $M\in\mathfrak{M}$ for which the inequalities
+$$ |x_i(M) - x_i(M')| < \epsilon \quad (i=1,2,\dots,n)$$
+hold. In this way the neighbourhood is defined by providing $\epsilon$ and any elements of $R$.
+
+Let's show, that the axioms of topological space are satisfied.
+\begin{enumerate}
+\item [$1^\circ$.] Each point has a neighbourhood and is contained in it.
+\item [$2^\circ$.] The intersection of two neighbourhoods is another neighbourhood.
+\item [$3^\circ$.] When $M_1\subset U(M_0)$, there exists $U(M_1)\subset U(M_0)$.
+\end{enumerate}
+
+It is clear, that the first two axioms are satisfied. In order to show that the third axiom is also satisfied, we find an $\epsilon'$ such that the circle of radius $\epsilon'$ centered at $x_i(M_1)$ is contained within the circle of radius $\epsilon$ centered at $x_i(M_0)$; it is then clear that
+$$ U(M_1) = \{|x_i(M) - x_i(M_1)| < \epsilon'\} $$
+satisfies the required condition.
+
+\begin{theorem}
+  The topological space $\mathfrak{M}$ is bicompact and enjoys the axioms given by Hausdorff.
+\end{theorem}
+
+The proof that we give here is based on Tychonoff's theorem on the bicompactness of topological products of bicompact spaces\footnote{\href{https://sci-hub.st/https://link.springer.com/article/10.1007/BF01782364}{\emph{A. Tychonoff}, Math. Annalen, 102, (1929)}.}. A proof that does not use Tychonoff's theorem can be found in \footnote{See \href{http://www.mathnet.ru/links/253be47c30469d06812d656be551fd8a/sm6047.pdf}{\emph{I. Gelfand} and \emph{G. \v{S}ilov}, On several methods of introducing a topology on the set of maximal ideals of a normed ring (in this volume of Recueil mathématique, p. 31)}.}.
+
+Let's associate to each element $x\in R$ a disk $Q_x$ of radius $\|x\|$ in the complex plane, and consider the topological product $\Omega$ of all these disks. According to Tychonoff's theorem $\Omega$ is bicompact. To each $M_0\in\mathfrak{M}$ we associate that point in $\Omega$ which is determined by the values $x(M_0)$. From ($\epsilon$), section 5, follows that $\mathfrak{M}$ is mapped one-to-one into part of $\Omega$; the topology in $\mathfrak{M}$ coincides with the one induced on the image of $\mathfrak{M}$ in $\Omega$; thus $\mathfrak{M}$ is homeomorphic to part of $\Omega$. To show the bicompactness of $\mathfrak{M}$, it now suffices to show that it is closed in the bicompact space $\Omega$.
+
+Let $\Lambda=\{\lambda_x\}$ be a limit point of the set $\mathfrak{M}$ in $\Omega$; we construct a maximal ideal $M_0\in\mathfrak{M}$ such that $x(M_0)=\lambda_x$; it will now be shown that $\Lambda\in\mathfrak{M}$. Let's show that $\lambda_{x+y}=\lambda_x+\lambda_y$. To this end we consider a neighbourhood of the point $\lambda$, that is determined by the points $x\cdot y$ and an arbitrarily small number $\epsilon$. Since $\lambda$ is a limit point of $\mathfrak{M}$, a point $M\in\mathfrak{M}$ will appear in its neighbourhood, such that
+\begin{align*}
+  |\lambda_x &- x(M)| < \epsilon \\
+  |\lambda_y &- y(M)| < \epsilon \\
+  |\lambda_{x+y} &- x(M) - y(M)| < \epsilon.
+\end{align*}
+Hence $|\lambda_{x+y} - \lambda_x - \lambda_y| < 3\epsilon$, and since $\epsilon$ was arbitrary, $\lambda_{x+y} = \lambda_x + \lambda_y$. We obtain, that the correspondence $x\to\lambda_x$ is a homomorphism from the ring $R$ to the field of complex numbers. In the same manner we show that $\lambda_{ie} = i$. Consequently there exists a maximal ideal $M_0\in\mathfrak{M}$ such that $$x(M_0)=\lambda_x$$ for all $x$, and the theorem has been proven.
+
+Furthermore let's consider, that all functions $x(M)$ are automatically continuous: in order to find a neighbourhood $V(M_0)$, in which the function $x(M)$ does not vary more than $\epsilon$, it suffices to consider the set
+$$ V(M_0) = \{|x(M) - x(M_0)| < \epsilon\}, $$
+which is a neighbourhood by definition.
+
+Thus we obtain
+\begin{theorem}
+  Every normed ring $R$ can be mapped homomorphically into the ring $C(\mathfrak{M})$ of continuous functions defined on the bicompact Hausdorff space $\mathfrak{M}$. In order for the map from $R$ to $C(\mathfrak{M})$ to be an isomorphism, it is necessary and sufficient that the following condition is satisfied: from $\sqrt[n]{\|x^n\|} \to 0$ follows $x=0$.
+\end{theorem}
+
+The following theorem shows the necessity of this topology.
+
+\newtheorem*{theorem10'}{Theorem 10'}
+\begin{theorem10'}
+  Let $\mathfrak{M}$ be topologized in any manner such that
+  \begin{enumerate}
+  \item [($\alpha$)] $\mathfrak{M}$ is bicompact,
+  \item [($\beta$)] the functions $x(M)$ are continuous.
+  \end{enumerate}
+  Denote the topological space with the new topology by $\mathfrak{M_1}$ --- and with the old one --- by $\mathfrak{M_0}$. Then $\mathfrak{M_0}$ is isomorphic to $\mathfrak{M_1}$.
+\end{theorem10'}
+The map from $\mathfrak{M_0}$ into $\mathfrak{M_1}$, sending each $M\in\mathfrak{M_0}$ to the same in $\mathfrak{M_1}$, is one-to-one. From ($\beta$) the image in $\mathfrak{M_1}$ of any open set in $\mathfrak{M_0}$ is still open; consequently the map $\mathfrak{M_1}\to\mathfrak{M_0}$ is continuous. By a well-known theorem of topology, ($\alpha$) implies that the map is continuous in both directions, that is, $\mathfrak{M_0}$ is isomorphic to $\mathfrak{M_1}$.
+
+Since we have applications of this theory in mind, we remark that it is not necessary to use all elements of the ring in the specification of the topology: one can limit oneself to the generating elements. A totality $K\subset R$ is called \emph{a totality of generators} of $R$, when the smallest closed subring containing $K$ coincides with $R$.
+
+\begin{theorem}
+  The totality of neighbourhoods
+  $$ U(M_0) = \{|x_i(M) - x_i(M_0)| < \epsilon\},\quad i=1,2,\dots,n, $$
+  where $\epsilon$ and $n$ are arbitrary, and $x_1, x_2, \dots, x_n$---are elements of $K$, is a defining system of neighbourhoods in $\mathfrak{M}$.
+\end{theorem}
+
+We must show, that in each neighbourhood
+$$ U(M_1) = \{|x_i(M) - x_i(M_0)| < \epsilon\},\quad i=1,2,\dots,n, $$
+$$ x_1, x_2, \dots, x_n\in R, $$
+there is a neighbourhood from the defining system.
+
+Let's find $n$ polynomials
+$$ P_1(x_{11}, x_{12}, \dots, x_{1n_1}), \dots, P_n(x_{n1}, x_{n2}, \dots, x_{nn_n}) $$
+in the elements $x_ik\in K$, that are less than $\frac\epsilon3$ in norm in their separation from the elements $x_1, x_2, \dots, x_n$. For each polynomial we find such a $\delta$, that the deviation of the arguments $x_{k1}(M), \dots, x_{kn_k}(M)$ from the values $x_{k1}(M_0), \dots, x_{kn_k}(M_0)$ by less than $\delta$ does not cause the value of the polynomial to change by more than $\frac\epsilon3$.
+
 [...]
+
 
 \end{document}
 
