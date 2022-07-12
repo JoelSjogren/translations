@@ -22,4 +22,4 @@ Some good resources for translation are: [Wiktionary](https://en.wiktionary.org/
 
 Update 2021-08-09: The license is now CC BY-NC-SA. Does anyone out there have any objections to this? If so, open an issue [here](https://github.com/JoelSjogren/translations/issues).
 
-Apparently, there are some translations of this book [into Spanish](https://matematicas.unex.es/~navarro/res/) dating some 10 years back. That page also contains a great library of Grothendieck's other writings, and a similar translation project for "La Clef des Songes" into Spanish.
+Apparently, there are some translations of this book [into Spanish](https://matematicas.unex.es/~navarro/res/) dating some 10 years back. That page also contains a great library of Grothendieck's other writings, and a similar translation project for "La Clef des Songes" into Spanish. Another translation project I found on GitHub is [this one](https://github.com/thosgood/translations), including a [partial translation](https://labs.thosgood.com/translations/grothendieck-thomason-91-04-02.html) of Grothendieck's letter to Thomason about derivators.
