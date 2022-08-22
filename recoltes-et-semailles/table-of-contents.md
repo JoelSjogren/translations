@@ -81,7 +81,7 @@ _Epilogue_: the invisible Circles
 1. [The child and the Good Lord](part-1/1.md)
 2. [Error and discovery](part-1/2.md)
 3. [The unmentionable toils](part-1/3.md)
-4. Infaillibilité (des autres) et mépris (de soi)
+4. [Infallibility (of others) and contempt (for oneself)](part-1/4.md)
 
 <a name="part-1-2"></a>
 ### II &nbsp; The dream and the Dreamer
