@@ -77,8 +77,8 @@ _Epilogue_: the invisible Circles
 # Fatuité et Renouvellement / Complacency and Renewal
 ### (Sommaire)
 
-### I &nbsp; Travail et découverte 
-1. L'enfant et le Bon Dieu
+### I &nbsp; Work and discovery
+1. [The child and the Good Lord](part-1/1.md)
 2. Erreur et découverte 
 3. Les inavouables labeurs 
 4. Infaillibilité (des autres) et mépris (de soi)
