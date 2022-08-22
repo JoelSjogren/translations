@@ -79,7 +79,7 @@ _Epilogue_: the invisible Circles
 
 ### I &nbsp; Work and discovery
 1. [The child and the Good Lord](part-1/1.md)
-2. Erreur et découverte 
+2. [Error and discovery](part-1/2.md)
 3. Les inavouables labeurs 
 4. Infaillibilité (des autres) et mépris (de soi)
 
