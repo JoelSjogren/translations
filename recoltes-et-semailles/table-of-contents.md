@@ -95,7 +95,7 @@ _Epilogue_: the invisible Circles
 9. [The welcome foreigner](part-1/9.md)
 10. [The "Mathematical community": fiction and reality](part-1/10.md)
 11. <a name="rencontre-claude"></a> [Meeting with Claude Chevalley, or: freedom and good intents](part-1/11.md)
-12. Le mérite et le mépris 
+12. [Merit and contempt](part-1/12.md)
 13. Force et épaisseur 
 14. Naissance de la crainte 
 15. Récoltes et semailles 
