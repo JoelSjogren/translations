@@ -94,7 +94,7 @@ _Epilogue_: the invisible Circles
 ### III &nbsp; Birth of a concern
 9. [The welcome foreigner](part-1/9.md)
 10. [The "Mathematical community": fiction and reality](part-1/10.md)
-11. <a name="rencontre-claude"></a> Rencontre avec Claude Chevalley, ou: liberté et bons sentiments
+11. <a name="rencontre-claude"></a> [Meeting with Claude Chevalley, or: freedom and good intents](part-1/11.md)
 12. Le mérite et le mépris 
 13. Force et épaisseur 
 14. Naissance de la crainte 
